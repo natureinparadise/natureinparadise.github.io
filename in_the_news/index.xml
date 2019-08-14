@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In_the_news on Hugo Future Imperfect Slim</title>
+    <link>https://natureinparadise.github.io/in_the_news/</link>
+    <description>Recent content in In_the_news on Hugo Future Imperfect Slim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://natureinparadise.github.io/in_the_news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coastal Carbon Network covered in Smithsonian Newsletter</title>
+      <link>https://natureinparadise.github.io/in_the_news/ccrcn_publicity/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://natureinparadise.github.io/in_the_news/ccrcn_publicity/</guid>
+      <description>Our work on quantifying flux of carbon stocks in coastal wetlands was featured in the Smithsonian Environmental Research Center&amp;rsquo;s newsletter On the Edge.
+Check it out here.</description>
+    </item>
+    
+  </channel>
+</rss>
