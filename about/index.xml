@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Nature Dave on Hugo Future Imperfect Slim</title>
+    <title>About Nature Dave on NATURE.IN.PARADISE</title>
     <link>https://natureinparadise.github.io/about/</link>
-    <description>Recent content in About Nature Dave on Hugo Future Imperfect Slim</description>
+    <description>Recent content in About Nature Dave on NATURE.IN.PARADISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natureinparadise.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to Paradise</title>
+      <link>https://natureinparadise.github.io/about/sticky/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://natureinparadise.github.io/about/sticky/</guid>
+      <description> SITE MAP  A brief intro to Dave Klinges.  
+ An overview of my research program.  
+ Some of the news coverage of Nature Dave and collaborators.  
+ Film and photo products by Nature Studios.  
+ Musings related to research and conservation.  </description>
+    </item>
     
     <item>
       <title></title>

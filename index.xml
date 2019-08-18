@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect Slim</title>
+    <title>NATURE.IN.PARADISE</title>
     <link>https://natureinparadise.github.io/</link>
-    <description>Recent content on Hugo Future Imperfect Slim</description>
+    <description>Recent content on NATURE.IN.PARADISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natureinparadise.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to Paradise</title>
+      <link>https://natureinparadise.github.io/about/sticky/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://natureinparadise.github.io/about/sticky/</guid>
+      <description> SITE MAP  A brief intro to Dave Klinges.  
+ An overview of my research program.  
+ Some of the news coverage of Nature Dave and collaborators.  
+ Film and photo products by Nature Studios.  
+ Musings related to research and conservation.  </description>
+    </item>
     
     <item>
       <title>Film Projects</title>
@@ -17,8 +30,13 @@
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://natureinparadise.github.io/multimedia/various_projects/</guid>
-      <description>Smithsonian Sleepover: thank you to volunteers  Scaling Ice: Climbing with the Dartmouth Mountaineering Club  Good Vibes &amp;amp; Duct Tape  Good Vibes &amp;amp; Duct Tape: Stories with Cindy Pierce from Dartmouth Film &amp;amp; Media Studies on Vimeo.
-The Making of Good Vibes &amp;amp; Duct Tape  The Making of &amp;quot;Good Vibes &amp;amp; Duct Tape&amp;quot; from Dartmouth Film &amp;amp; Media Studies on Vimeo.</description>
+      <description>Explore some of the video content I&amp;rsquo;ve produced for individuals and organizations. I&amp;rsquo;m always happy to collaborate on a multimedia project! Feel free to contact me if you&amp;rsquo;re interested.
+
+
+Alliance for a Sustainable Amazon: Join the Research Internship Program  
+Smithsonian Sleepover: thank you to volunteers  
+Wildlands Studies: Conservation Program in Peru  
+Scaling Ice: Climbing with the Dartmouth Mountaineering Club</description>
     </item>
     
     <item>
