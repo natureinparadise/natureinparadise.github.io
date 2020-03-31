@@ -6,10 +6,33 @@
     <description>Recent content on NATURE.IN.PARADISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natureinparadise.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to Paradise</title>
+      <link>https://natureinparadise.github.io/about/overview/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natureinparadise.github.io/about/overview/</guid>
+      <description> SITE MAP  A brief intro to Dave Klinges.  
+ An overview of my research program.  
+ Some of the news coverage of Nature Dave and collaborators.  
+ Film and photo products by Nature Studios.  
+ Musings related to research and conservation.  </description>
+    </item>
+    
+    <item>
+      <title>Research featured in the Centre ValBio annual report</title>
+      <link>https://natureinparadise.github.io/in_the_news/cvb_annual_report/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natureinparadise.github.io/in_the_news/cvb_annual_report/</guid>
+      <description>The Madagascar research of our lab was featured in the annual report of Centre ValBio (CVB), Madagascar&amp;rsquo;s premiere research station. Check it out here!
+Learn more about the CVB field stations here. We&amp;rsquo;ve done lots of our research here, and will continue to do so in the coming years&amp;hellip;.even if our next field season in Madagascar may be delayed just a tad due to the &amp;lsquo;rona outbreak.</description>
+    </item>
     
     <item>
       <title>Launching Campaign to Support Madagascar Climate Research</title>
@@ -19,19 +42,6 @@
       <guid>https://natureinparadise.github.io/in_the_news/crowdfunder_announcement/</guid>
       <description>We&amp;rsquo;re happy to announce that we are launching a crowdfunding campaign &amp;lt;/font to support our field research in Madagascar! Our work involves monitoring the microclimate of forested systems, in order to better understand what forest climate is relative to open-air temperatures (which is what weather towers measure), and how much forest climate will change into the future.
 We&amp;rsquo;ve made great progress on the campaign so far, raising $3,570 so far in less than a week.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Paradise</title>
-      <link>https://natureinparadise.github.io/about/overview/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://natureinparadise.github.io/about/overview/</guid>
-      <description> SITE MAP  A brief intro to Dave Klinges.  
- An overview of my research program.  
- Some of the news coverage of Nature Dave and collaborators.  
- Film and photo products by Nature Studios.  
- Musings related to research and conservation.  </description>
     </item>
     
     <item>
