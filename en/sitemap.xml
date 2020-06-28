@@ -1,238 +1,518 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://natureinparadise.github.io/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/"
+                href="https://examplesite.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/"
+                href="https://examplesite.com/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/about/overview/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/data_software/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/in_the_news/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/in_the_news/cvb_annual_report/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/in_the_news/crowdfunder_announcement/</loc>
-    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/in_the_news/ccrcn_bill/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/in_the_news/nerc_expert_network/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/multimedia/various_projects/</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/multimedia/</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/blog/grfp-advice/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/blog/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/research/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/research/"
-                />
+    <loc>https://examplesite.com/faq/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/research/"
+                href="https://examplesite.com/fr/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/research/"
+                href="https://examplesite.com/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/in_the_news/ccrcn_publicity/</loc>
-    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/questions/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/blog/conservation_drones/</loc>
-    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/multimedia/intern_video/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/blog/reaching_out/</loc>
-    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/blog/contemporary-journalist/</loc>
-    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/about/"
-                />
+    <loc>https://examplesite.com/lcluc/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/about/"
+                href="https://examplesite.com/fr/lcluc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/about/"
+                href="https://examplesite.com/lcluc/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/about/past_locations/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natureinparadise.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://examplesite.com/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/categories/"
+                href="https://examplesite.com/fr/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/categories/"
+                href="https://examplesite.com/tags/advice/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/contact/</loc>
+    <loc>https://examplesite.com/tags/ai/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/contact/"
+                href="https://examplesite.com/fr/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/contact/"
+                href="https://examplesite.com/tags/ai/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://examplesite.com/tags/android/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/tags/"
+                href="https://examplesite.com/fr/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/tags/"
+                href="https://examplesite.com/tags/android/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/artificial-intelligence/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/company/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/company/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/company-news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/blog-post-1/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/blog-post-2/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/blog-post-3/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/blog-post-4/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/blog-post-5/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/blog-post-6/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-6/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/legacy-support/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/legacy-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/legacy-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/mechine/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/mechine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/mechine/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/retro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/retro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/technology/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/technology/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/ameerega_trivittata-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/ameerega_trivittata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/calumma_gastrotaenia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/ceratophrys_cornuta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/dendropsophus_sarayacuensis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/hypsiboas_geographicus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/indri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/author/john-doe/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/marsh_overlook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/mantella_baroni/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/author/mark-dinn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/pricing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/pithecopus_palliata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/ambalavero_football/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/stegosaurus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/gcrew_drone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/gallery/baker_tower/</loc>
   </url>
   
 </urlset>

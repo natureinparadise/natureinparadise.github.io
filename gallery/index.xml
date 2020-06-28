@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimedia on Airspace | Creative Agency Hugo Template</title>
+    <link>https://examplesite.com/gallery/</link>
+    <description>Recent content in Multimedia on Airspace | Creative Agency Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 David Klinges, credit to [Themefisher](https://themefisher.com)</copyright>
+    
+	<atom:link href="https://examplesite.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ameerega trivittata</title>
+      <link>https://examplesite.com/gallery/ameerega_trivittata-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/ameerega_trivittata-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ameerega trivittata</title>
+      <link>https://examplesite.com/gallery/ameerega_trivittata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/ameerega_trivittata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calumma gastrotaenia</title>
+      <link>https://examplesite.com/gallery/calumma_gastrotaenia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/calumma_gastrotaenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ceratophrys cornuta</title>
+      <link>https://examplesite.com/gallery/ceratophrys_cornuta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/ceratophrys_cornuta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dendropsophus sarayacuensis</title>
+      <link>https://examplesite.com/gallery/dendropsophus_sarayacuensis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/dendropsophus_sarayacuensis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypsiboas geographicus</title>
+      <link>https://examplesite.com/gallery/hypsiboas_geographicus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/hypsiboas_geographicus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indri indri</title>
+      <link>https://examplesite.com/gallery/indri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/indri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kirkpatrick Marsh</title>
+      <link>https://examplesite.com/gallery/marsh_overlook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/marsh_overlook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantella baroni</title>
+      <link>https://examplesite.com/gallery/mantella_baroni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/mantella_baroni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pithecopus palliata</title>
+      <link>https://examplesite.com/gallery/pithecopus_palliata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/pithecopus_palliata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stadium Play</title>
+      <link>https://examplesite.com/gallery/ambalavero_football/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/ambalavero_football/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stegosaurus stenops</title>
+      <link>https://examplesite.com/gallery/stegosaurus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/stegosaurus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV flight</title>
+      <link>https://examplesite.com/gallery/gcrew_drone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/gcrew_drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolf-wind wailing at the doorways</title>
+      <link>https://examplesite.com/gallery/baker_tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/gallery/baker_tower/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

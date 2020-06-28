@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>À propos de Hugo on Hugo Future Imperfect Slim in fr</title>
-    <link>https://natureinparadise.github.io/fr/about/</link>
-    <description>Recent content in À propos de Hugo on Hugo Future Imperfect Slim in fr</description>
+    <title>About Our Company on Airspace | Creative Agency Hugo Template</title>
+    <link>https://examplesite.com/fr/about/</link>
+    <description>Recent content in About Our Company on Airspace | Creative Agency Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     
-	<atom:link href="https://natureinparadise.github.io/fr/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/fr/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

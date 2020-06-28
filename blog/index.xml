@@ -1,53 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on NATURE.IN.PARADISE</title>
-    <link>https://natureinparadise.github.io/blog/</link>
-    <description>Recent content in Blog on NATURE.IN.PARADISE</description>
+    <title>Latest News on Airspace | Creative Agency Hugo Template</title>
+    <link>https://examplesite.com/blog/</link>
+    <description>Recent content in Latest News on Airspace | Creative Agency Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 David Klinges, credit to [Themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="https://natureinparadise.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>8 Tips for your GRFP doctors DON&#39;T want you to know</title>
-      <link>https://natureinparadise.github.io/blog/grfp-advice/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://examplesite.com/blog/blog-post-1/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://natureinparadise.github.io/blog/grfp-advice/</guid>
-      <description>These views, although informed by reading lots of other applications and conversations with other researchers, are my own. And it cannot be overstated that applying for the GRF is playing crapshoot: there is no sure way of winning, and the gamble is mostly luck. I felt motivated to write on this topic not because I consider myself an expert of this proposal, but in hopes that perhaps something that I learned through this process can pay off for someone else.</description>
+      <guid>https://examplesite.com/blog/blog-post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
-      <title>Taking flight</title>
-      <link>https://natureinparadise.github.io/blog/conservation_drones/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://examplesite.com/blog/blog-post-2/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://natureinparadise.github.io/blog/conservation_drones/</guid>
-      <description>When you think about conservation, what do you picture? Scientists collecting data in the mud or among the trees? Working with local landowners? Rearing the young of endangered species? While fieldwork is certainly critical, a surprising amount of science is conducted away from the field. The Smithsonian Conservation Biology Institute (SCBI) GIS lab is heavily involved in remote sensing – that is, collecting data without direct observation. One current project records changes in forest cover in Myanmar (formerly Burma).</description>
+      <guid>https://examplesite.com/blog/blog-post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
-      <title>Reaching out: the importance of Outreach</title>
-      <link>https://natureinparadise.github.io/blog/reaching_out/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://examplesite.com/blog/blog-post-3/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://natureinparadise.github.io/blog/reaching_out/</guid>
-      <description>It&amp;rsquo;s been a minute!  That&amp;rsquo;s in part because I&amp;rsquo;ve been pretty preoccupied with applying for grad school, but also because I&amp;rsquo;ve taken my writing over toMongabay,&amp;nbsp;a&amp;nbsp;site&amp;nbsp;dedicated&amp;nbsp;to&amp;nbsp;environmental&amp;nbsp;and&amp;nbsp;conservation&amp;nbsp;news. Here&amp;rsquo;s some of my stories ; I especially enjoyed writing the piece on 3D printing reefs, which involved some fascinating conversations with a few individuals at the cutting edge of novel conservation work. Check them out!
-Past that, this will be a quick post to share some thoughts on making an impact through your science.</description>
+      <guid>https://examplesite.com/blog/blog-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
-      <title>The Contemporary Science Journalist</title>
-      <link>https://natureinparadise.github.io/blog/contemporary-journalist/</link>
-      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://examplesite.com/blog/blog-post-4/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://natureinparadise.github.io/blog/contemporary-journalist/</guid>
-      <description>I like writing. This is an adapted version of an essay I wrote for my application to the Medill School of Journalism. Some nebulus, rambling thoughts on the state of journalism. Tossed some buzz words in there to touch all the necessary bases, so have some patience with that. Thanks, enjoy.
-The journalist’s toolset has changed. 
-It was once a simple kit: a microphone to thrust at politicians or athletes, a notepad to jot down frantic scribbles, a typewriter to weave quotes and notes together.</description>
+      <guid>https://examplesite.com/blog/blog-post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://examplesite.com/blog/blog-post-5/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/blog-post-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://examplesite.com/blog/blog-post-6/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/blog-post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
   </channel>

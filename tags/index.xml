@@ -1,14 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on NATURE.IN.PARADISE</title>
-    <link>https://natureinparadise.github.io/tags/</link>
-    <description>Recent content in Tags on NATURE.IN.PARADISE</description>
+    <title>Tags on Airspace | Creative Agency Hugo Template</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on Airspace | Creative Agency Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 David Klinges, credit to [Themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="https://natureinparadise.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advice</title>
+      <link>https://examplesite.com/tags/advice/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://examplesite.com/tags/ai/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://examplesite.com/tags/android/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company</title>
+      <link>https://examplesite.com/tags/company/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechine</title>
+      <link>https://examplesite.com/tags/mechine/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/mechine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://examplesite.com/tags/news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retro</title>
+      <link>https://examplesite.com/tags/retro/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/retro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://examplesite.com/tags/technology/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/technology/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

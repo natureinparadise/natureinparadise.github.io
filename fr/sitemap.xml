@@ -1,154 +1,476 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://natureinparadise.github.io/fr/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/fr/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/about/"
+                href="https://examplesite.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/about/"
+                href="https://examplesite.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/fr/research/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/fr/faq/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/research/"
+                href="https://examplesite.com/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/research/"
+                href="https://examplesite.com/fr/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/fr/categories/</loc>
-    <priority>0</priority>
+    <loc>https://examplesite.com/fr/lcluc/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/categories/"
+                href="https://examplesite.com/lcluc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/categories/"
+                href="https://examplesite.com/fr/lcluc/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/fr/contact/</loc>
+    <loc>https://examplesite.com/fr/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/contact/"
+                href="https://examplesite.com/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/contact/"
+                href="https://examplesite.com/fr/tags/advice/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/fr/</loc>
-    <priority>0</priority>
+    <loc>https://examplesite.com/fr/tags/ai/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/"
+                href="https://examplesite.com/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/"
+                href="https://examplesite.com/fr/tags/ai/"
                 />
   </url>
   
   <url>
-    <loc>https://natureinparadise.github.io/fr/tags/</loc>
-    <priority>0</priority>
+    <loc>https://examplesite.com/fr/tags/android/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://natureinparadise.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://natureinparadise.github.io/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://natureinparadise.github.io/br/tags/"
+                href="https://examplesite.com/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/"
+                href="https://examplesite.com/fr/tags/android/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/categories/artificial-intelligence/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/categories/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/tags/company/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/company/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/company-news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/blog/blog-post-1/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/blog/blog-post-2/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/blog/blog-post-3/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/blog/blog-post-4/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/blog/blog-post-5/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/blog/blog-post-6/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/blog-post-6/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/blog/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/categories/legacy-support/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/categories/legacy-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/categories/legacy-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/tags/mechine/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/mechine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/mechine/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/tags/news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/retro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/retro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/tags/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/tags/technology/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/tags/technology/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/author/john-doe/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/author/mark-dinn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/pricing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/gallery/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/gallery/rio-furniture-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/gallery/rio-furniture-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/gallery/rio-furniture-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/gallery/rio-furniture-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/gallery/rio-furniture-5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/gallery/rio-furniture-6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/service/</loc>
   </url>
   
 </urlset>
