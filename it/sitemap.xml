@@ -2,28 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>natureinparadise.github.io/it/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/"
-                />
-  </url><url>
     <loc>natureinparadise.github.io/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -44,6 +22,28 @@
                 rel="alternate"
                 hreflang="it"
                 href="natureinparadise.github.io/it/categories/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="natureinparadise.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="natureinparadise.github.io/it/"
                 />
   </url><url>
     <loc>natureinparadise.github.io/it/tags/</loc>
