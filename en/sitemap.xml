@@ -2,31 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>natureinparadise.github.io/faq/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/faq/"
-                />
-  </url><url>
     <loc>natureinparadise.github.io/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <lastmod>2021-04-08T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -48,8 +25,95 @@
                 href="natureinparadise.github.io/"
                 />
   </url><url>
+    <loc>natureinparadise.github.io/data_software/</loc>
+    <lastmod>2021-04-08T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>natureinparadise.github.io/faq/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/faq/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/questions/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>natureinparadise.github.io/lcluc/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/lcluc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/lcluc/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/madagascar/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>natureinparadise.github.io/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/tags/advice/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/tags/ai/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/tags/ai/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/tags/android/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/tags/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/tags/android/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/categories/artificial-intelligence/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/categories/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/categories/artificial-intelligence/"
+                />
+  </url><url>
     <loc>natureinparadise.github.io/categories/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -71,31 +135,112 @@
                 href="natureinparadise.github.io/categories/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/how-to/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <loc>natureinparadise.github.io/tags/company/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/how-to/"
+                href="natureinparadise.github.io/fr/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/how-to/"
+                href="natureinparadise.github.io/tags/company/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/categories/company-news/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/blog/blog-post-1/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/blog/blog-post-1/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/blog/blog-post-2/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/blog/blog-post-2/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/blog/blog-post-3/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/blog/blog-post-3/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/blog/blog-post-4/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/blog/blog-post-4/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/blog/blog-post-5/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/blog/blog-post-5/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/blog/blog-post-6/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/blog/blog-post-6/"
                 />
   </url><url>
     <loc>natureinparadise.github.io/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -103,45 +248,64 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/blog/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/date-i18n/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <loc>natureinparadise.github.io/categories/legacy-support/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/date-i18n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/date-i18n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/date-i18n/"
+                href="natureinparadise.github.io/fr/categories/legacy-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/date-i18n/"
+                href="natureinparadise.github.io/categories/legacy-support/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/tags/mechine/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/tags/mechine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/tags/mechine/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/tags/news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/tags/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/tags/news/"
+                />
+  </url><url>
+    <loc>natureinparadise.github.io/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="natureinparadise.github.io/fr/tags/retro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="natureinparadise.github.io/tags/retro/"
                 />
   </url><url>
     <loc>natureinparadise.github.io/tags/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -163,31 +327,8 @@
                 href="natureinparadise.github.io/tags/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/categories/technical-assistance/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/categories/technical-assistance/"
-                />
-  </url><url>
     <loc>natureinparadise.github.io/tags/technology/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -195,386 +336,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/tags/technology/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/tags/advice/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/tags/ai/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/tags/android/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/categories/artificial-intelligence/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/categories/artificial-intelligence/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/tags/company/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/categories/company-news/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-1/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-2/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-3/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-4/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-5/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-6/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/categories/legacy-support/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/tags/mechine/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/tags/news/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/tags/retro/"
                 />
   </url><url>
     <loc>natureinparadise.github.io/about/</loc>
@@ -585,19 +348,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/about/"
                 />
+  </url><url>
+    <loc>natureinparadise.github.io/project/ameerega_trivittata-2/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/ameerega_trivittata/</loc>
   </url><url>
     <loc>natureinparadise.github.io/author/</loc>
     <xhtml:link
@@ -607,19 +364,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/author/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/author/"
                 />
+  </url><url>
+    <loc>natureinparadise.github.io/project/calumma_gastrotaenia/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/ceratophrys_cornuta/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/dendropsophus_sarayacuensis/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/contact/</loc>
   </url><url>
     <loc>natureinparadise.github.io/contact/</loc>
     <xhtml:link
@@ -629,19 +384,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/contact/"
                 />
+  </url><url>
+    <loc>natureinparadise.github.io/project/hypsiboas_geographicus/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/indri/</loc>
   </url><url>
     <loc>natureinparadise.github.io/author/john-doe/</loc>
     <xhtml:link
@@ -651,19 +400,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/author/john-doe/"
                 />
+  </url><url>
+    <loc>natureinparadise.github.io/project/marsh_overlook/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/mantella_baroni/</loc>
   </url><url>
     <loc>natureinparadise.github.io/author/mark-dinn/</loc>
     <xhtml:link
@@ -673,19 +416,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/author/mark-dinn/"
                 />
+  </url><url>
+    <loc>natureinparadise.github.io/project/</loc>
   </url><url>
     <loc>natureinparadise.github.io/pricing/</loc>
     <xhtml:link
@@ -695,194 +430,22 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="natureinparadise.github.io/pricing/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/project/"
-                />
+    <loc>natureinparadise.github.io/project/pithecopus_palliata/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/project/rio-furniture-1/"
-                />
+    <loc>natureinparadise.github.io/research/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/project/rio-furniture-2/"
-                />
+    <loc>natureinparadise.github.io/research/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/project/rio-furniture-3/"
-                />
+    <loc>natureinparadise.github.io/project/ambalavero_football/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/project/rio-furniture-4/"
-                />
+    <loc>natureinparadise.github.io/project/stegosaurus/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/project/rio-furniture-5/"
-                />
+    <loc>natureinparadise.github.io/project/gcrew_drone/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/project/rio-furniture-6/"
-                />
-  </url><url>
-    <loc>natureinparadise.github.io/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="natureinparadise.github.io/fr/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="natureinparadise.github.io/it/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="natureinparadise.github.io/de/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="natureinparadise.github.io/service/"
-                />
+    <loc>natureinparadise.github.io/project/baker_tower/</loc>
   </url>
 </urlset>

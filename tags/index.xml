@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Airspace | Creative Agency Hugo Template</title>
+    <title>Tags on Dave Klinges | Ecology and Conservation</title>
     <link>natureinparadise.github.io/tags/</link>
-    <description>Recent content in Tags on Airspace | Creative Agency Hugo Template</description>
+    <description>Recent content in Tags on Dave Klinges | Ecology and Conservation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="natureinparadise.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to</title>
-      <link>natureinparadise.github.io/tags/how-to/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      
-      <guid>natureinparadise.github.io/tags/how-to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>natureinparadise.github.io/tags/technology/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      
-      <guid>natureinparadise.github.io/tags/technology/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="natureinparadise.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advice</title>
       <link>natureinparadise.github.io/tags/advice/</link>
@@ -86,6 +68,15 @@
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
       <guid>natureinparadise.github.io/tags/retro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>natureinparadise.github.io/tags/technology/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>natureinparadise.github.io/tags/technology/</guid>
       <description></description>
     </item>
     
