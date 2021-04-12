@@ -1,35 +1,50 @@
 <!DOCTYPE html>
-<html lang="fr-fr"><head>
+<html lang="fr-FR"><head>
   <meta charset="utf-8">
   <title>Latest News</title>
 
   <!-- mobile responsive meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="this is meta description">
   <meta name="author" content="Themefisher">
   <meta name="generator" content="Hugo 0.82.0" />
 
+  
+  <meta property="og:title" content="Latest News" />
+<meta property="og:description" content="this is meta description" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://examplesite.org/fr/blog/" /><meta property="og:image" content="http://examplesite.org/images/logo.png"/><meta property="og:site_name" content="Airspace Hugo Template" />
+
+
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://examplesite.org/images/logo.png"/>
+
+<meta name="twitter:title" content="Latest News"/>
+<meta name="twitter:description" content="this is meta description"/>
+
+  
+
   <!-- plugins -->
   
-  <link rel="stylesheet" href="https://natureinparadise.github.io/plugins/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="http://examplesite.org/plugins/bootstrap/css/bootstrap.min.css" media='screen'>
   
-  <link rel="stylesheet" href="https://natureinparadise.github.io/plugins/Ionicons/css/ionicons.min.css">
+  <link rel="stylesheet" href="http://examplesite.org/plugins/ionicons/css/ionicons.min.css" >
   
-  <link rel="stylesheet" href="https://natureinparadise.github.io/plugins/magnific-popup/magnific-popup.css">
+  <link rel="stylesheet" href="http://examplesite.org/plugins/magnific-popup/magnific-popup.min.css" >
   
-  <link rel="stylesheet" href="https://natureinparadise.github.io/plugins/slick/slick.css">
+  <link rel="stylesheet" href="http://examplesite.org/plugins/slick/slick.css" >
   
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href="https://natureinparadise.github.io/scss/style.min.css" media="screen">
+  <link rel="stylesheet" href="http://examplesite.org/scss/style.min.css" media="screen">
 
   <!--Favicon-->
-  <link rel="shortcut icon" href="https://natureinparadise.github.io/images/favicon.png" type="image/x-icon">
-  <link rel="icon" href="https://natureinparadise.github.io/images/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="http://examplesite.org/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="http://examplesite.org/images/favicon.png" type="image/x-icon">
 
-</head><body>
+</head>
+<body>
 <!-- preloader start -->
 <div class="preloader">
   
@@ -37,7 +52,7 @@
 <!-- preloader end -->
 
 <header class="navigation">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
         
@@ -49,46 +64,48 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/fr">
-              <img src="https://natureinparadise.github.io/images/tree_code_circle.png" alt="Dave Klinges | Ecology and Conservation" class="img-responsive">
+            <a class="navbar-brand" href="/fr/">
+              <img src="/images/logo.png" alt="Airspace | Creative Agency Hugo Template" width="150px" class="img-responsive">
             </a>
           </div>
           
           <div class="collapse navbar-collapse" id="navigation">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="https://natureinparadise.github.io/">Accueil</a></li>
-
               
               
-              <li><a href="https://natureinparadise.github.io/fr/about">About</a></li>
+              <li><a href="/fr/">Accueil</a></li>
               
               
               
-              <li><a href="https://natureinparadise.github.io/fr/research">Research</a></li>
+              <li><a href="/fr/about">À propos</a></li>
+              
+              
+              
+              <li><a href="/fr/project">Projet</a></li>
+              
+              
+              
+              <li><a href="/fr/blog">Blog</a></li>
               
               
               
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                  aria-expanded="false">Projects <span class="ion-ios-arrow-down"></span></a>
+                  aria-expanded="false">Plus <span class="ion-ios-arrow-down"></span></a>
                 <ul class="dropdown-menu">
                   
-                  <li><a href="https://natureinparadise.github.io/fr/lcluc">Land Cover</a></li>
+                  <li><a href="/fr/faq">Questions fréquentes</a></li>
+                  
+                  <li><a href="/fr/service">Service</a></li>
+                  
+                  <li><a href="/fr/pricing">Tarification</a></li>
                   
                 </ul>
               </li>
               
               
               
-              <li><a href="https://natureinparadise.github.io/fr/data_software">Data &amp; Software</a></li>
-              
-              
-              
-              <li><a href="https://natureinparadise.github.io/fr/gallery">Multimedia</a></li>
-              
-              
-              
-              <li><a href="https://natureinparadise.github.io/fr/contact">Contact</a></li>
+              <li><a href="/fr/contact">Contact</a></li>
               
               
 
@@ -103,7 +120,8 @@
                   
                   
                   
-                  <option id="en" value="https://natureinparadise.github.io/blog/">En
+                  
+                  <option id="en" value="http://examplesite.org/blog/">English
                   </option>
                   
                   
@@ -118,8 +136,50 @@
                   
                   
                   
-                  <option id="fr" value="https://natureinparadise.github.io/fr/blog/" selected>
-                    Fr
+                  
+                  
+                  
+                  
+                  <option id="fr" value="http://examplesite.org/fr/blog/" selected>
+                    Français
+                  </option>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <option id="it" value="http://examplesite.org/it/blog/">Italiano
+                  </option>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <option id="de" value="http://examplesite.org/de/blog/">Deutsch
                   </option>
                   
                   
@@ -128,7 +188,6 @@
                 </select>
               </li>
               
-
             </ul>
           </div>
         </nav>
@@ -137,7 +196,8 @@
   </div>
 </header>
 
-<section class="page-title bg-2" style="background-image: url('https://natureinparadise.github.io/images/featue-bg.jpg');">
+
+<section class="page-title bg-2" style="background-image: url('http://examplesite.org/images/feature-bg.jpg');">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -150,6 +210,9 @@
   </div>
 </section>
 
+
+
+
 <div class="page-wrapper">
   <div class="container">
     <div class="row">
@@ -158,129 +221,112 @@
         
         <div class="post">
           <div class="post-media post-thumb">
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-1/">
+            <a href="http://examplesite.org/fr/blog/date-i18n/">
+              <img src="/images/blog/blog-post-1.jpg" alt="Pretty-print dates">
+            </a>
+          </div>
+          <h3 class="post-title"><a href="http://examplesite.org/fr/blog/date-i18n/">Pretty-print dates</a></h3>
+          <div class="post-meta">
+            <ul>
+              <li><i class="ion-calendar"></i> 1 avril 2021</li>
+              <li><i class="ion-android-people"></i>
+                Par
+                
+                <a class="text-primary" href="/fr/author/john-doe">John Doe</a>
+              </li>
+              <li><i class="ion-pricetags"></i>
+                <a href="/fr/tags/how%20to">How to</a>, <a href="/fr/tags/technology">Technology</a>
+              </li>
+            </ul>
+          </div>
+          <div class="post-content">
+            <p>Pour écrire un horodatage ISO 8601 dans la langue courante, vous pouvez utiliser le shortcode date_i18n :
+L&rsquo;écriture de
+{{% date_i18n &quot;2020-10-20&quot; %}} donne
+20 octobre 2020 </p>
+            <a href="http://examplesite.org/fr/blog/date-i18n/" class="btn btn-main">Lire la suite</a>
+          </div>
+        </div>
+        
+        <div class="post">
+          <div class="post-media post-thumb">
+            <a href="http://examplesite.org/fr/blog/blog-post-1/">
               <img src="/images/blog/blog-post-1.jpg" alt="How To Wear Bright Shoes">
             </a>
           </div>
-          <h3 class="post-title"><a href="https://natureinparadise.github.io/fr/blog/blog-post-1/">How To Wear Bright Shoes</a></h3>
+          <h3 class="post-title"><a href="http://examplesite.org/fr/blog/blog-post-1/">How To Wear Bright Shoes</a></h3>
           <div class="post-meta">
             <ul>
-              <li><i class="ion-calendar"></i> September 24, 2018</li>
+              <li><i class="ion-calendar"></i> 24 septembre 2018</li>
               <li><i class="ion-android-people"></i>
-                Posted By
+                Par
                 
                 <a class="text-primary" href="/fr/author/john-doe">John Doe</a>
-                
               </li>
-              <li><i class="ion-pricetags"></i> 
-                
-                <a href="/fr/tags/advice">Advice</a>
-								
-                , <a href="/fr/tags/technology">Technology</a>
-								
+              <li><i class="ion-pricetags"></i>
+                <a href="/fr/tags/advice">Advice</a>, <a href="/fr/tags/technology">Technology</a>
               </li>
             </ul>
           </div>
           <div class="post-content">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-1/" class="btn btn-main">Continue Reading</a>
+            <a href="http://examplesite.org/fr/blog/blog-post-1/" class="btn btn-main">Lire la suite</a>
           </div>
         </div>
         
         <div class="post">
           <div class="post-media post-thumb">
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-2/">
+            <a href="http://examplesite.org/fr/blog/blog-post-2/">
               <img src="/images/blog/blog-post-2.jpg" alt="How To Wear Bright Shoes">
             </a>
           </div>
-          <h3 class="post-title"><a href="https://natureinparadise.github.io/fr/blog/blog-post-2/">How To Wear Bright Shoes</a></h3>
+          <h3 class="post-title"><a href="http://examplesite.org/fr/blog/blog-post-2/">How To Wear Bright Shoes</a></h3>
           <div class="post-meta">
             <ul>
-              <li><i class="ion-calendar"></i> September 24, 2018</li>
+              <li><i class="ion-calendar"></i> 24 septembre 2018</li>
               <li><i class="ion-android-people"></i>
-                Posted By
+                Par
                 
                 <a class="text-primary" href="/fr/author/mark-dinn">Mark Dinn</a>
-                
               </li>
-              <li><i class="ion-pricetags"></i> 
-                
-                <a href="/fr/tags/advice">Advice</a>
-								
-                , <a href="/fr/tags/retro">Retro</a>
-								
+              <li><i class="ion-pricetags"></i>
+                <a href="/fr/tags/advice">Advice</a>, <a href="/fr/tags/retro">Retro</a>
               </li>
             </ul>
           </div>
           <div class="post-content">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-2/" class="btn btn-main">Continue Reading</a>
+            <a href="http://examplesite.org/fr/blog/blog-post-2/" class="btn btn-main">Lire la suite</a>
           </div>
         </div>
         
         <div class="post">
           <div class="post-media post-thumb">
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-3/">
+            <a href="http://examplesite.org/fr/blog/blog-post-3/">
               <img src="/images/blog/blog-post-3.jpg" alt="How To Wear Bright Shoes">
             </a>
           </div>
-          <h3 class="post-title"><a href="https://natureinparadise.github.io/fr/blog/blog-post-3/">How To Wear Bright Shoes</a></h3>
+          <h3 class="post-title"><a href="http://examplesite.org/fr/blog/blog-post-3/">How To Wear Bright Shoes</a></h3>
           <div class="post-meta">
             <ul>
-              <li><i class="ion-calendar"></i> September 24, 2018</li>
+              <li><i class="ion-calendar"></i> 24 septembre 2018</li>
               <li><i class="ion-android-people"></i>
-                Posted By
+                Par
                 
                 <a class="text-primary" href="/fr/author/mark-dinn">Mark Dinn</a>
-                
               </li>
-              <li><i class="ion-pricetags"></i> 
-                
-                <a href="/fr/tags/android">Android</a>
-								
-                , <a href="/fr/tags/retro">Retro</a>
-								
+              <li><i class="ion-pricetags"></i>
+                <a href="/fr/tags/android">Android</a>, <a href="/fr/tags/retro">Retro</a>
               </li>
             </ul>
           </div>
           <div class="post-content">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-3/" class="btn btn-main">Continue Reading</a>
+            <a href="http://examplesite.org/fr/blog/blog-post-3/" class="btn btn-main">Lire la suite</a>
           </div>
         </div>
         
-        <div class="post">
-          <div class="post-media post-thumb">
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-4/">
-              <img src="/images/blog/blog-post-4.jpg" alt="How To Wear Bright Shoes">
-            </a>
-          </div>
-          <h3 class="post-title"><a href="https://natureinparadise.github.io/fr/blog/blog-post-4/">How To Wear Bright Shoes</a></h3>
-          <div class="post-meta">
-            <ul>
-              <li><i class="ion-calendar"></i> September 24, 2018</li>
-              <li><i class="ion-android-people"></i>
-                Posted By
-                
-                <a class="text-primary" href="/fr/author/john-doe">John Doe</a>
-                
-              </li>
-              <li><i class="ion-pricetags"></i> 
-                
-                <a href="/fr/tags/mechine">Mechine</a>
-								
-                , <a href="/fr/tags/retro">Retro</a>
-								
-              </li>
-            </ul>
-          </div>
-          <div class="post-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            <a href="https://natureinparadise.github.io/fr/blog/blog-post-4/" class="btn btn-main">Continue Reading</a>
-          </div>
-        </div>
-        
-        
+
 				
 				
 				
@@ -325,7 +371,7 @@
 						
 						
 						<li>
-							<a href="/fr/blog/page/2/">Suivant</a>
+							<a href="/fr/blog/page/2/">Plus anciens</a>
 						</li>
 						
 					</ul>
@@ -333,84 +379,82 @@
 				
       </div>
       <div class="col-md-4">
-        <aside class="sidebar">
-  
-  <div class="widget widget-latest-post">
+        <aside class="sidebar"><div class="widget widget-latest-post">
     <h4 class="widget-title">Derniers articles</h4>
     
     <div class="media">
-      <a class="pull-left" href="https://natureinparadise.github.io/fr/blog/blog-post-1/">
+      <a class="pull-left" href="http://examplesite.org/fr/blog/date-i18n/">
+        <img class="media-object" src="/images/blog/blog-post-1.jpg" alt="Pretty-print dates">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="http://examplesite.org/fr/blog/date-i18n/">Pretty-print dates</a></h4>
+        <p>Pour écrire un horodatage ISO 8601 dans la langue …</p>
+      </div>
+    </div>
+    
+    <div class="media">
+      <a class="pull-left" href="http://examplesite.org/fr/blog/blog-post-1/">
         <img class="media-object" src="/images/blog/blog-post-1.jpg" alt="How To Wear Bright Shoes">
       </a>
       <div class="media-body">
-        <h4 class="media-heading"><a href="https://natureinparadise.github.io/fr/blog/blog-post-1/">How To Wear Bright Shoes</a></h4>
+        <h4 class="media-heading"><a href="http://examplesite.org/fr/blog/blog-post-1/">How To Wear Bright Shoes</a></h4>
         <p>Lorem ipsum dolor sit amet, consectetur …</p>
       </div>
     </div>
     
     <div class="media">
-      <a class="pull-left" href="https://natureinparadise.github.io/fr/blog/blog-post-2/">
+      <a class="pull-left" href="http://examplesite.org/fr/blog/blog-post-2/">
         <img class="media-object" src="/images/blog/blog-post-2.jpg" alt="How To Wear Bright Shoes">
       </a>
       <div class="media-body">
-        <h4 class="media-heading"><a href="https://natureinparadise.github.io/fr/blog/blog-post-2/">How To Wear Bright Shoes</a></h4>
+        <h4 class="media-heading"><a href="http://examplesite.org/fr/blog/blog-post-2/">How To Wear Bright Shoes</a></h4>
         <p>Lorem ipsum dolor sit amet, consectetur …</p>
       </div>
     </div>
     
     <div class="media">
-      <a class="pull-left" href="https://natureinparadise.github.io/fr/blog/blog-post-3/">
+      <a class="pull-left" href="http://examplesite.org/fr/blog/blog-post-3/">
         <img class="media-object" src="/images/blog/blog-post-3.jpg" alt="How To Wear Bright Shoes">
       </a>
       <div class="media-body">
-        <h4 class="media-heading"><a href="https://natureinparadise.github.io/fr/blog/blog-post-3/">How To Wear Bright Shoes</a></h4>
+        <h4 class="media-heading"><a href="http://examplesite.org/fr/blog/blog-post-3/">How To Wear Bright Shoes</a></h4>
         <p>Lorem ipsum dolor sit amet, consectetur …</p>
       </div>
     </div>
     
-    <div class="media">
-      <a class="pull-left" href="https://natureinparadise.github.io/fr/blog/blog-post-4/">
-        <img class="media-object" src="/images/blog/blog-post-4.jpg" alt="How To Wear Bright Shoes">
-      </a>
-      <div class="media-body">
-        <h4 class="media-heading"><a href="https://natureinparadise.github.io/fr/blog/blog-post-4/">How To Wear Bright Shoes</a></h4>
-        <p>Lorem ipsum dolor sit amet, consectetur …</p>
-      </div>
-    </div>
-    
-  </div>
-  
-
-  
-  <div class="widget widget-category">
+  </div><div class="widget widget-category">
     <h4 class="widget-title">Catégories</h4>
     <ul class="widget-category-list">
-      <li><a href="/fr/categories/artificial-intelligence">Artificial intelligence</a></li>
-      <li><a href="/fr/categories/company-news">Company news</a></li>
-      <li><a href="/fr/categories/legacy-support">Legacy support</a></li>
+      <li><a href="/fr/categories/artificial-intelligence/">Artificial Intelligence</a></li>
+      <li><a href="/fr/categories/company-news/">Company News</a></li>
+      <li><a href="/fr/categories/legacy-support/">Legacy Support</a></li>
+      <li><a href="/fr/categories/technical-assistance/">Technical Assistance</a></li>
     </ul>
-  </div> 
-
-  
-  <div class="widget widget-tag">
+  </div>
+<div class="widget widget-tag">
     <h4 class="widget-title">Mots clefs</h4>
     <ul class="widget-tag-list">
-      <li><a href="/fr/tags/advice">Advice</a></li>
-      <li><a href="/fr/tags/ai">Ai</a></li>
-      <li><a href="/fr/tags/android">Android</a></li>
-      <li><a href="/fr/tags/company">Company</a></li>
-      <li><a href="/fr/tags/mechine">Mechine</a></li>
-      <li><a href="/fr/tags/news">News</a></li>
-      <li><a href="/fr/tags/retro">Retro</a></li>
-      <li><a href="/fr/tags/technology">Technology</a></li>
+      <li><a href="/fr/tags/advice/">Advice</a></li>
+      <li><a href="/fr/tags/ai/">AI</a></li>
+      <li><a href="/fr/tags/android/">Android</a></li>
+      <li><a href="/fr/tags/company/">Company</a></li>
+      <li><a href="/fr/tags/how-to/">How to</a></li>
+      <li><a href="/fr/tags/mechine/">Mechine</a></li>
+      <li><a href="/fr/tags/news/">News</a></li>
+      <li><a href="/fr/tags/retro/">Retro</a></li>
+      <li><a href="/fr/tags/technology/">Technology</a></li>
     </ul>
-  </div> 
+  </div>
 </aside>
 
       </div>
     </div>
   </div>
 </div>
+
+
+
+
 
 <footer class="footer">
 	<div class="container">
@@ -419,17 +463,21 @@
 				<div class="footer-manu">
 					<ul>
             
-            <li><a href="about">About</a></li>
+            <li><a href="/fr/about">À propos</a></li>
             
-            <li><a href="research">Research</a></li>
+            <li><a href="/fr/project">Projet</a></li>
             
-            <li><a href="gallery">Multimedia</a></li>
+            <li><a href="/fr/service">Service</a></li>
             
-            <li><a href="contact">Contact</a></li>
+            <li><a href="/fr/pricing">Tarification</a></li>
+            
+            <li><a href="/fr/faq">Questions fréquentes</a></li>
+            
+            <li><a href="/fr/contact">Contact</a></li>
             
 					</ul>
 				</div>
-				<p class="copyright">Copyright © 2019 <a href="https://themefisher.com">Themefisher</a> All Rights Reserved</p>
+				<p class="copyright">Copyright © 2021 <a href="https://themefisher.com">Themefisher</a>. Tous droits réservés.</p>
 			</div>
 		</div>
 	</div>
@@ -437,29 +485,67 @@
 
 
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&amp;libraries=places"></script>
+
+
+
+<script src="http://examplesite.org/plugins/jquery/jquery.min.js" ></script>
+
+<script src="http://examplesite.org/plugins/bootstrap/js/bootstrap.min.js" ></script>
+
+<script src="http://examplesite.org/plugins/slick/slick.min.js" ></script>
+
+<script src="http://examplesite.org/plugins/magnific-popup/magnific-popup.min.js" ></script>
+
+<script src="http://examplesite.org/plugins/shuffle/shuffle.min.js" ></script>
+
+<script src="http://examplesite.org/plugins/google-map/gmap.js" defer></script>
 
 
 
 
-<script src="https://natureinparadise.github.io/plugins/jQuery/jquery.min.js"></script>
-
-<script src="https://natureinparadise.github.io/plugins/bootstrap/bootstrap.min.js"></script>
-
-<script src="https://natureinparadise.github.io/plugins/slick/slick.min.js"></script>
-
-<script src="https://natureinparadise.github.io/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-
-<script src="https://natureinparadise.github.io/plugins/shuffle/shuffle.min.js"></script>
-
-<script src="https://natureinparadise.github.io/plugins/google-map/gmap.js"></script>
+<script src="http://examplesite.org/js/script.min.js"></script>
 
 
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
 
-<script src="https://natureinparadise.github.io/js/script.min.js"></script>
 
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
 
+.cookie-box-hide {
+  display: none;
+}
+</style>
 </body>
 
 </html>
