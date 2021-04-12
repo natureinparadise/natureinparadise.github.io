@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>natureinparadise.github.io/data_software/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
-  </url><url>
     <loc>natureinparadise.github.io/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <lastmod>2021-04-08T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -17,6 +14,9 @@
                 hreflang="en"
                 href="natureinparadise.github.io/"
                 />
+  </url><url>
+    <loc>natureinparadise.github.io/data_software/</loc>
+    <lastmod>2021-04-08T13:05:29+06:00</lastmod>
   </url><url>
     <loc>natureinparadise.github.io/faq/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
@@ -323,6 +323,10 @@
   </url><url>
     <loc>natureinparadise.github.io/gallery/ameerega_trivittata/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/ameerega_trivittata-2/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/ameerega_trivittata/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -337,9 +341,15 @@
   </url><url>
     <loc>natureinparadise.github.io/gallery/calumma_gastrotaenia/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/calumma_gastrotaenia/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/gallery/ceratophrys_cornuta/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/ceratophrys_cornuta/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/gallery/dendropsophus_sarayacuensis/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/dendropsophus_sarayacuensis/</loc>
   </url><url>
     <loc>natureinparadise.github.io/contact/</loc>
     <xhtml:link
@@ -355,7 +365,11 @@
   </url><url>
     <loc>natureinparadise.github.io/gallery/hypsiboas_geographicus/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/hypsiboas_geographicus/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/gallery/indri/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/indri/</loc>
   </url><url>
     <loc>natureinparadise.github.io/author/john-doe/</loc>
     <xhtml:link
@@ -371,7 +385,11 @@
   </url><url>
     <loc>natureinparadise.github.io/gallery/marsh_overlook/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/marsh_overlook/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/gallery/mantella_baroni/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/mantella_baroni/</loc>
   </url><url>
     <loc>natureinparadise.github.io/author/mark-dinn/</loc>
     <xhtml:link
@@ -397,6 +415,8 @@
                 href="natureinparadise.github.io/gallery/"
                 />
   </url><url>
+    <loc>natureinparadise.github.io/project/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/pricing/</loc>
     <xhtml:link
                 rel="alternate"
@@ -411,14 +431,24 @@
   </url><url>
     <loc>natureinparadise.github.io/gallery/pithecopus_palliata/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/pithecopus_palliata/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/research/</loc>
   </url><url>
     <loc>natureinparadise.github.io/gallery/ambalavero_football/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/ambalavero_football/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/gallery/stegosaurus/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/stegosaurus/</loc>
   </url><url>
     <loc>natureinparadise.github.io/gallery/gcrew_drone/</loc>
   </url><url>
+    <loc>natureinparadise.github.io/project/gcrew_drone/</loc>
+  </url><url>
     <loc>natureinparadise.github.io/gallery/baker_tower/</loc>
+  </url><url>
+    <loc>natureinparadise.github.io/project/baker_tower/</loc>
   </url>
 </urlset>
