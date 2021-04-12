@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://examplesite.org/it/</loc>
+    <loc>natureinparadise.github.io/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/"
+                href="natureinparadise.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/"
+                href="natureinparadise.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/"
+                href="natureinparadise.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://examplesite.org/it/"
+                href="natureinparadise.github.io/it/"
                 />
   </url><url>
-    <loc>http://examplesite.org/it/categories/</loc>
+    <loc>natureinparadise.github.io/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/"
+                href="natureinparadise.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/"
+                href="natureinparadise.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/categories/"
+                href="natureinparadise.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://examplesite.org/it/categories/"
+                href="natureinparadise.github.io/it/categories/"
                 />
   </url><url>
-    <loc>http://examplesite.org/it/tags/</loc>
+    <loc>natureinparadise.github.io/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/"
+                href="natureinparadise.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/"
+                href="natureinparadise.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/tags/"
+                href="natureinparadise.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://examplesite.org/it/tags/"
+                href="natureinparadise.github.io/it/tags/"
                 />
   </url>
 </urlset>
