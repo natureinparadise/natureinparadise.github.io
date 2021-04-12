@@ -2,450 +2,450 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>natureinparadise.github.io/</loc>
+    <loc>http://examplesite.org/</loc>
     <lastmod>2021-04-08T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/"
+                href="http://examplesite.org/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="natureinparadise.github.io/it/"
+                href="http://examplesite.org/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="natureinparadise.github.io/de/"
+                href="http://examplesite.org/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/"
+                href="http://examplesite.org/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/data_software/</loc>
+    <loc>http://examplesite.org/data_software/</loc>
     <lastmod>2021-04-08T13:05:29+06:00</lastmod>
   </url><url>
-    <loc>natureinparadise.github.io/faq/</loc>
+    <loc>http://examplesite.org/faq/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/faq/"
+                href="http://examplesite.org/fr/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/faq/"
+                href="http://examplesite.org/faq/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/questions/</loc>
+    <loc>http://examplesite.org/questions/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url><url>
-    <loc>natureinparadise.github.io/lcluc/</loc>
+    <loc>http://examplesite.org/lcluc/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/lcluc/"
+                href="http://examplesite.org/fr/lcluc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/lcluc/"
+                href="http://examplesite.org/lcluc/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/madagascar/</loc>
+    <loc>http://examplesite.org/madagascar/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url><url>
-    <loc>natureinparadise.github.io/tags/advice/</loc>
+    <loc>http://examplesite.org/tags/advice/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/advice/"
+                href="http://examplesite.org/fr/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/advice/"
+                href="http://examplesite.org/tags/advice/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/ai/</loc>
+    <loc>http://examplesite.org/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/ai/"
+                href="http://examplesite.org/fr/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/ai/"
+                href="http://examplesite.org/tags/ai/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/android/</loc>
+    <loc>http://examplesite.org/tags/android/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/android/"
+                href="http://examplesite.org/fr/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/android/"
+                href="http://examplesite.org/tags/android/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/categories/artificial-intelligence/</loc>
+    <loc>http://examplesite.org/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/artificial-intelligence/"
+                href="http://examplesite.org/fr/categories/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/categories/artificial-intelligence/"
+                href="http://examplesite.org/categories/artificial-intelligence/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/categories/</loc>
+    <loc>http://examplesite.org/categories/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/"
+                href="http://examplesite.org/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="natureinparadise.github.io/it/categories/"
+                href="http://examplesite.org/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="natureinparadise.github.io/de/categories/"
+                href="http://examplesite.org/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/categories/"
+                href="http://examplesite.org/categories/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/company/</loc>
+    <loc>http://examplesite.org/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/company/"
+                href="http://examplesite.org/fr/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/company/"
+                href="http://examplesite.org/tags/company/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/categories/company-news/</loc>
+    <loc>http://examplesite.org/categories/company-news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/company-news/"
+                href="http://examplesite.org/fr/categories/company-news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/categories/company-news/"
+                href="http://examplesite.org/categories/company-news/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-1/</loc>
+    <loc>http://examplesite.org/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-1/"
+                href="http://examplesite.org/fr/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-1/"
+                href="http://examplesite.org/blog/blog-post-1/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-2/</loc>
+    <loc>http://examplesite.org/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-2/"
+                href="http://examplesite.org/fr/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-2/"
+                href="http://examplesite.org/blog/blog-post-2/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-3/</loc>
+    <loc>http://examplesite.org/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-3/"
+                href="http://examplesite.org/fr/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-3/"
+                href="http://examplesite.org/blog/blog-post-3/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-4/</loc>
+    <loc>http://examplesite.org/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-4/"
+                href="http://examplesite.org/fr/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-4/"
+                href="http://examplesite.org/blog/blog-post-4/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-5/</loc>
+    <loc>http://examplesite.org/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-5/"
+                href="http://examplesite.org/fr/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-5/"
+                href="http://examplesite.org/blog/blog-post-5/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/blog-post-6/</loc>
+    <loc>http://examplesite.org/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/blog-post-6/"
+                href="http://examplesite.org/fr/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/blog-post-6/"
+                href="http://examplesite.org/blog/blog-post-6/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/blog/</loc>
+    <loc>http://examplesite.org/blog/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/blog/"
+                href="http://examplesite.org/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/blog/"
+                href="http://examplesite.org/blog/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/categories/legacy-support/</loc>
+    <loc>http://examplesite.org/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/categories/legacy-support/"
+                href="http://examplesite.org/fr/categories/legacy-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/categories/legacy-support/"
+                href="http://examplesite.org/categories/legacy-support/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/mechine/</loc>
+    <loc>http://examplesite.org/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/mechine/"
+                href="http://examplesite.org/fr/tags/mechine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/mechine/"
+                href="http://examplesite.org/tags/mechine/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/news/</loc>
+    <loc>http://examplesite.org/tags/news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/news/"
+                href="http://examplesite.org/fr/tags/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/news/"
+                href="http://examplesite.org/tags/news/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/retro/</loc>
+    <loc>http://examplesite.org/tags/retro/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/retro/"
+                href="http://examplesite.org/fr/tags/retro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/retro/"
+                href="http://examplesite.org/tags/retro/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/</loc>
+    <loc>http://examplesite.org/tags/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/"
+                href="http://examplesite.org/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="natureinparadise.github.io/it/tags/"
+                href="http://examplesite.org/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="natureinparadise.github.io/de/tags/"
+                href="http://examplesite.org/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/"
+                href="http://examplesite.org/tags/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/tags/technology/</loc>
+    <loc>http://examplesite.org/tags/technology/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/tags/technology/"
+                href="http://examplesite.org/fr/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/tags/technology/"
+                href="http://examplesite.org/tags/technology/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/about/</loc>
+    <loc>http://examplesite.org/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/about/"
+                href="http://examplesite.org/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/about/"
+                href="http://examplesite.org/about/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/project/ameerega_trivittata-2/</loc>
+    <loc>http://examplesite.org/project/ameerega_trivittata-2/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/ameerega_trivittata/</loc>
+    <loc>http://examplesite.org/project/ameerega_trivittata/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/author/</loc>
+    <loc>http://examplesite.org/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/author/"
+                href="http://examplesite.org/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/author/"
+                href="http://examplesite.org/author/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/project/calumma_gastrotaenia/</loc>
+    <loc>http://examplesite.org/project/calumma_gastrotaenia/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/ceratophrys_cornuta/</loc>
+    <loc>http://examplesite.org/project/ceratophrys_cornuta/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/dendropsophus_sarayacuensis/</loc>
+    <loc>http://examplesite.org/project/dendropsophus_sarayacuensis/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/contact/</loc>
+    <loc>http://examplesite.org/contact/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/contact/</loc>
+    <loc>http://examplesite.org/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/contact/"
+                href="http://examplesite.org/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/contact/"
+                href="http://examplesite.org/contact/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/project/hypsiboas_geographicus/</loc>
+    <loc>http://examplesite.org/project/hypsiboas_geographicus/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/indri/</loc>
+    <loc>http://examplesite.org/project/indri/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/author/john-doe/</loc>
+    <loc>http://examplesite.org/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/author/john-doe/"
+                href="http://examplesite.org/fr/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/author/john-doe/"
+                href="http://examplesite.org/author/john-doe/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/project/marsh_overlook/</loc>
+    <loc>http://examplesite.org/project/marsh_overlook/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/mantella_baroni/</loc>
+    <loc>http://examplesite.org/project/mantella_baroni/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/author/mark-dinn/</loc>
+    <loc>http://examplesite.org/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/author/mark-dinn/"
+                href="http://examplesite.org/fr/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/author/mark-dinn/"
+                href="http://examplesite.org/author/mark-dinn/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/project/</loc>
+    <loc>http://examplesite.org/project/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/pricing/</loc>
+    <loc>http://examplesite.org/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="natureinparadise.github.io/fr/pricing/"
+                href="http://examplesite.org/fr/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="natureinparadise.github.io/pricing/"
+                href="http://examplesite.org/pricing/"
                 />
   </url><url>
-    <loc>natureinparadise.github.io/project/pithecopus_palliata/</loc>
+    <loc>http://examplesite.org/project/pithecopus_palliata/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/research/</loc>
+    <loc>http://examplesite.org/research/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/research/</loc>
+    <loc>http://examplesite.org/research/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/ambalavero_football/</loc>
+    <loc>http://examplesite.org/project/ambalavero_football/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/stegosaurus/</loc>
+    <loc>http://examplesite.org/project/stegosaurus/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/gcrew_drone/</loc>
+    <loc>http://examplesite.org/project/gcrew_drone/</loc>
   </url><url>
-    <loc>natureinparadise.github.io/project/baker_tower/</loc>
+    <loc>http://examplesite.org/project/baker_tower/</loc>
   </url>
 </urlset>
