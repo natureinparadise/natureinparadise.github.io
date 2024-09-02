@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://natureinparadise.github.io/data_software/</loc>
+    <loc>https://natureinparadise.github.io/english/data_software/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url><url>
     <loc>https://natureinparadise.github.io/</loc>
@@ -18,86 +18,41 @@
                 href="https://natureinparadise.github.io/"
                 />
   </url><url>
-    <loc>https://natureinparadise.github.io/faq/</loc>
+    <loc>https://natureinparadise.github.io/english/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/faq/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/questions/</loc>
+    <loc>https://natureinparadise.github.io/french/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/faq/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/questions/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/faq/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/lcluc/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/lcluc/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url><url>
     <loc>https://natureinparadise.github.io/lcluc/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/lcluc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/lcluc/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/tags/advice/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/advice/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/ai/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/tags/android/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/android/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/categories/artificial-intelligence/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/categories/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
@@ -114,172 +69,63 @@
   </url><url>
     <loc>https://natureinparadise.github.io/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/company/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/categories/company-news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/categories/company-news/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/blog/blog-post-1/</loc>
+    <loc>https://natureinparadise.github.io/english/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/blog/blog-post-1/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/blog/blog-post-2/</loc>
+    <loc>https://natureinparadise.github.io/english/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/blog/blog-post-2/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/blog/blog-post-3/</loc>
+    <loc>https://natureinparadise.github.io/english/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/blog/blog-post-3/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/blog/blog-post-4/</loc>
+    <loc>https://natureinparadise.github.io/english/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/blog/blog-post-4/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/blog/blog-post-5/</loc>
+    <loc>https://natureinparadise.github.io/english/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/blog/blog-post-5/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/blog/blog-post-6/</loc>
+    <loc>https://natureinparadise.github.io/english/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/blog/blog-post-6/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/blog/</loc>
+    <loc>https://natureinparadise.github.io/french/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/blog/"
-                />
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/blog/blog-post-2/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/blog/blog-post-3/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/blog/blog-post-4/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/blog/blog-post-5/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/blog/blog-post-6/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/blog/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/blog/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
     <loc>https://natureinparadise.github.io/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/categories/legacy-support/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/mechine/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/tags/news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/news/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/tags/retro/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/retro/"
-                />
   </url><url>
     <loc>https://natureinparadise.github.io/tags/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
@@ -296,135 +142,79 @@
   </url><url>
     <loc>https://natureinparadise.github.io/tags/technology/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/tags/technology/"
-                />
   </url><url>
-    <loc>https://natureinparadise.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/about/"
-                />
+    <loc>https://natureinparadise.github.io/english/about/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/ameerega_trivittata/</loc>
+    <loc>https://natureinparadise.github.io/french/about/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/author/"
-                />
+    <loc>https://natureinparadise.github.io/english/gallery/ameerega_trivittata/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/calumma_gastrotaenia/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/calumma_gastrotaenia/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/ceratophrys_cornuta/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/ceratophrys_cornuta/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/dendropsophus_sarayacuensis/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/dendropsophus_sarayacuensis/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/fieldwork_gear_peru/</loc>
+    <loc>https://natureinparadise.github.io/french/contact/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/contact/"
-                />
+    <loc>https://natureinparadise.github.io/english/gallery/fieldwork_gear_peru/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/hypsiboas_geographicus/</loc>
+    <loc>https://natureinparadise.github.io/english/contact/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/indri/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/hypsiboas_geographicus/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/author/john-doe/"
-                />
+    <loc>https://natureinparadise.github.io/english/gallery/indri/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/marsh_overlook/</loc>
+    <loc>https://natureinparadise.github.io/english/author/john-doe/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/mantella_baroni/</loc>
+    <loc>https://natureinparadise.github.io/french/author/john-doe/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/author/mark-dinn/"
-                />
+    <loc>https://natureinparadise.github.io/english/gallery/marsh_overlook/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/gallery/"
-                />
+    <loc>https://natureinparadise.github.io/english/gallery/mantella_baroni/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://natureinparadise.github.io/fr/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://natureinparadise.github.io/pricing/"
-                />
+    <loc>https://natureinparadise.github.io/english/author/mark-dinn/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/oxyrhopus_formosus/</loc>
+    <loc>https://natureinparadise.github.io/french/author/mark-dinn/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/oxyrhopus_petolarius/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/papaya_fields/</loc>
+    <loc>https://natureinparadise.github.io/english/pricing/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/pithecopus_palliata/</loc>
+    <loc>https://natureinparadise.github.io/french/pricing/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/research/</loc>
+    <loc>https://natureinparadise.github.io/french/gallery/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/ambalavero_football/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/oxyrhopus_formosus/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/stegosaurus/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/oxyrhopus_petolarius/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/gcrew_drone/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/papaya_fields/</loc>
   </url><url>
-    <loc>https://natureinparadise.github.io/gallery/baker_tower/</loc>
+    <loc>https://natureinparadise.github.io/english/gallery/pithecopus_palliata/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/research/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/gallery/rio-furniture-1/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/gallery/rio-furniture-2/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/gallery/rio-furniture-3/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/gallery/rio-furniture-4/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/gallery/rio-furniture-5/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/gallery/rio-furniture-6/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/french/service/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/gallery/ambalavero_football/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/gallery/stegosaurus/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/gallery/gcrew_drone/</loc>
+  </url><url>
+    <loc>https://natureinparadise.github.io/english/gallery/baker_tower/</loc>
   </url>
 </urlset>
