@@ -2,136 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multimedia on Dave Klinges | Ecology and Conservation</title>
-    <link>natureinparadise.github.io/project/</link>
+    <link>https://natureinparadise.github.io/project/</link>
     <description>Recent content in Multimedia on Dave Klinges | Ecology and Conservation</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <copyright>Copyright &amp;copy; 2021 David Klinges and [Themefisher](https://themefisher.com). All Rights Reserved.</copyright><atom:link href="natureinparadise.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://natureinparadise.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ameerega trivittata</title>
-      <link>natureinparadise.github.io/project/ameerega_trivittata-2/</link>
+      <title>Ambalavero Camp from Afar</title>
+      <link>https://natureinparadise.github.io/project/ambalavero_cloud_hills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/ameerega_trivittata-2/</guid>
+      <guid>https://natureinparadise.github.io/project/ambalavero_cloud_hills/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Ameerega trivittata</title>
-      <link>natureinparadise.github.io/project/ameerega_trivittata/</link>
+      <title>Ambalavero Hills</title>
+      <link>https://natureinparadise.github.io/project/ambalavero_hills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/ameerega_trivittata/</guid>
+      <guid>https://natureinparadise.github.io/project/ambalavero_hills/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Ameerega trivittata</title>
+      <link>https://natureinparadise.github.io/project/ameerega_trivittata-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/ameerega_trivittata-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ameerega trivittata</title>
+      <link>https://natureinparadise.github.io/project/ameerega_trivittata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/ameerega_trivittata/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Calumma gastrotaenia</title>
-      <link>natureinparadise.github.io/project/calumma_gastrotaenia/</link>
+      <link>https://natureinparadise.github.io/project/calumma_gastrotaenia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/calumma_gastrotaenia/</guid>
+      <guid>https://natureinparadise.github.io/project/calumma_gastrotaenia/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Calumma parsonii</title>
+      <link>https://natureinparadise.github.io/project/calumma_parsonii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/calumma_parsonii/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ceratophrys cornuta</title>
-      <link>natureinparadise.github.io/project/ceratophrys_cornuta/</link>
+      <link>https://natureinparadise.github.io/project/ceratophrys_cornuta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/ceratophrys_cornuta/</guid>
+      <guid>https://natureinparadise.github.io/project/ceratophrys_cornuta/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Ceratophrys cornuta</title>
+      <link>https://natureinparadise.github.io/project/hypsiboas_geographicus-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/hypsiboas_geographicus-2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Dendropsophus sarayacuensis</title>
-      <link>natureinparadise.github.io/project/dendropsophus_sarayacuensis/</link>
+      <link>https://natureinparadise.github.io/project/dendropsophus_sarayacuensis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/dendropsophus_sarayacuensis/</guid>
+      <guid>https://natureinparadise.github.io/project/dendropsophus_sarayacuensis/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Guibemantis pulcher</title>
+      <link>https://natureinparadise.github.io/project/guibemantis_pulcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/guibemantis_pulcher/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hypsiboas geographicus</title>
-      <link>natureinparadise.github.io/project/hypsiboas_geographicus/</link>
+      <link>https://natureinparadise.github.io/project/hypsiboas_geographicus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/hypsiboas_geographicus/</guid>
+      <guid>https://natureinparadise.github.io/project/hypsiboas_geographicus/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Indri indri</title>
-      <link>natureinparadise.github.io/project/indri/</link>
+      <link>https://natureinparadise.github.io/project/indri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/indri/</guid>
+      <guid>https://natureinparadise.github.io/project/indri/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Indri indri</title>
+      <link>https://natureinparadise.github.io/project/indri_indri1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/indri_indri1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indri indri</title>
+      <link>https://natureinparadise.github.io/project/indri_indri2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/indri_indri2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Kirkpatrick Marsh</title>
-      <link>natureinparadise.github.io/project/marsh_overlook/</link>
+      <link>https://natureinparadise.github.io/project/marsh_overlook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/marsh_overlook/</guid>
+      <guid>https://natureinparadise.github.io/project/marsh_overlook/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Malagasy paradise flycatcher</title>
+      <link>https://natureinparadise.github.io/project/malagasy_paradise_flycatcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/malagasy_paradise_flycatcher/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mantella baroni</title>
-      <link>natureinparadise.github.io/project/mantella_baroni/</link>
+      <link>https://natureinparadise.github.io/project/mantella_baroni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/mantella_baroni/</guid>
+      <guid>https://natureinparadise.github.io/project/mantella_baroni/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pithecopus palliata</title>
-      <link>natureinparadise.github.io/project/pithecopus_palliata/</link>
+      <link>https://natureinparadise.github.io/project/pithecopus_palliata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/pithecopus_palliata/</guid>
+      <guid>https://natureinparadise.github.io/project/pithecopus_palliata/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Propiethcus diadema</title>
+      <link>https://natureinparadise.github.io/project/propithecus_diadema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/propithecus_diadema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Propithecus verrouxi</title>
+      <link>https://natureinparadise.github.io/project/propithecus_verrouxi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/propithecus_verrouxi1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Propithecus verrouxi</title>
+      <link>https://natureinparadise.github.io/project/propithecus_verrouxi2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/propithecus_verrouxi2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sanzinia madagascariensis</title>
+      <link>https://natureinparadise.github.io/project/sanzinia_madagascariensis_isalo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/sanzinia_madagascariensis_isalo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scaphiophryne spinosa</title>
+      <link>https://natureinparadise.github.io/project/scaphiophryne_spinosa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/scaphiophryne_spinosa/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Stadium Play</title>
-      <link>natureinparadise.github.io/project/ambalavero_football/</link>
+      <link>https://natureinparadise.github.io/project/ambalavero_football/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/ambalavero_football/</guid>
+      <guid>https://natureinparadise.github.io/project/ambalavero_football/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stegosaurus stenops</title>
-      <link>natureinparadise.github.io/project/stegosaurus/</link>
+      <link>https://natureinparadise.github.io/project/stegosaurus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/stegosaurus/</guid>
+      <guid>https://natureinparadise.github.io/project/stegosaurus/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UAV flight</title>
-      <link>natureinparadise.github.io/project/gcrew_drone/</link>
+      <link>https://natureinparadise.github.io/project/gcrew_drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/gcrew_drone/</guid>
+      <guid>https://natureinparadise.github.io/project/gcrew_drone/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Uroplatus phantasticus</title>
+      <link>https://natureinparadise.github.io/project/uroplatus-phantasticus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/uroplatus-phantasticus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Viewpoint over Beza Mahafaly</title>
+      <link>https://natureinparadise.github.io/project/beza_viewpoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://natureinparadise.github.io/project/beza_viewpoint/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Wolf-wind wailing at the doorways</title>
-      <link>natureinparadise.github.io/project/baker_tower/</link>
+      <link>https://natureinparadise.github.io/project/baker_tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>natureinparadise.github.io/project/baker_tower/</guid>
+      <guid>https://natureinparadise.github.io/project/baker_tower/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
