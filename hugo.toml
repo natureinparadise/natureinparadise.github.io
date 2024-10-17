@@ -13,7 +13,6 @@ summaryLength = 30
 disableLanguages = []
 timeout = "500s"
 
-
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
@@ -36,7 +35,6 @@ unsafe = true
 startLevel = 2
 endLevel = 6
 ordered = false
-
 
 ########################### Output Format ##########################
 [outputFormats]
@@ -79,7 +77,6 @@ target = 'css'
 source = 'assets/.*\.(.*)$'
 target = '$1'
 
-
 ############################ Caches ##############################
 [caches]
 [caches.images]
@@ -89,7 +86,6 @@ maxAge = "720h"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
-
 
 #################################### Plugins ##############################
 
