@@ -1,0 +1,26 @@
+/*=================================================================
+  Images
+==================================================================*/
+
+img[alt$=">"] {
+  width: 50%;
+  float: right;
+  padding: 10px;
+}
+
+img[alt$="<"] {
+  width: 50%;
+  float: left;
+  padding: 10px;
+}
+
+img[alt$="< 30"] {
+  width: 50%;
+  float: left;
+  padding: 10px;
+}
+
+img[alt$="30"] {
+  width: 30%;
+  padding: 10px;
+}
