@@ -3,7 +3,7 @@ title: "Collaborators"
 description: ""
 draft: false
 layout: "service"
-bg_image: "images/canopy_understory.JPG"
+bg_image: "images/landscape/patagonia_torres2_banner.JPG"
 
 
 ########################### Overview #############################

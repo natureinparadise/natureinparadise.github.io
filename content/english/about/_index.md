@@ -28,7 +28,7 @@ _CV last updated: October 2024_
   button:
     enable : true
     label : "Download CV"
-    link : "docs/Klinges-20241014_long.pdf"
+    link : "docs/Klinges-20241028.pdf"
 
   funfacts: 
       
