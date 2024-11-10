@@ -12,7 +12,11 @@ draft: false
 
 _H-index: 10; Total Citations: 940; Google Scholar. +Undergraduate mentee; \*Corresponding/senior author_
 
-(18) Klinges, D.H.\* ….Scheffers, B, 30 total co-authors. Proximal microclimate: moving beyond spatiotemporal resolution improves ecological predictions. In press at Global Ecology and Biogeography  
+(20) Klinges, D.H.\* Microclimate regulates when autumn leaves fall. In Press at Nature Climate Change _Invited perspective_
+
+(19) Klinges, D.H.\*, Randriambololona, T., Lange, Z., Laterza-Barbosa, J., Randrianandrasana, H., Scheffers, B.R. Vertical and diel niches modulate thermal selection by rainforest frogs. In Press at Proceedings of the Royal Society of London B: Biological Sciences DOI: 10.1098/rspb.2024.1497
+
+(18) Klinges, D.H.\*, Baecher, J.A., Lembrechts, J.J., Maclean, I.M.D., Lenoir, J., Greiser, C., Ashcroft, M., Evans, L.J…. Scheffers, B.R. 30 total co-authors. Proximal microclimate: Moving beyond spatiotemporal resolution improves ecological predictions. Global Ecology and Biogeography, 33, e13884. DOI: 10.1111/geb.13884
 • Demonstrated via a global synthesis that relevant “microclimate” has more to do with representing the proximal microhabitats for a species than the spatial or temporal resolution of climate data.
 
 (17) Trew, B.T., Edwards, D.P., Lees, A.C., Klinges, D.H., Early, R., Svátek, M., Plichta, R., Matula, R., Okello, J., Niessner, A., Barthel, M., Six, J., Maclean, I. M. D. Novel climates are already widespread beneath the world’s tropical forest canopies. In press Nature Climate Change. DOI: [10.1038/s41558-024-02031-0](https://www.nature.com/articles/s41558-024-02031-0)

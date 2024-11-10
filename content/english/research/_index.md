@@ -50,7 +50,6 @@ featured_service:
 ![](/images/research/defrenne_2021_fig3.png) 
 
 <br>
-<br>
 
 _Relevant publications:_  
 
@@ -59,37 +58,40 @@ _Relevant publications:_
 <br>
 [Klinges _et al._ 2022 _Methods in Ecology and Evolution_](https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13877)  
 [Klinges _et al._ 2024 _Global Ecology and Biogeography_](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13884)  
+<br>
 [Trew _et al._ 2024 _Nature Climate Change_](https://www.nature.com/articles/s41558-024-02031-0)   
 <br>
 [De Frenne _et al._ 2021 _Global Change Biology_](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15569)"
       
-    # featured service item loop
+
     - name : "Ecophysiology of Amphibian Communities"
       icon : "ion-leaf"
       color : "primary-dark"
+
       content : "Animal physiology is a junction of an individual's traits and behavior with its environment. I integrate experimentally-derived measurements of physiological responses to climate with tools and theory on landscape ecology. I focus upon the physiology of amphibians, which are functionally diverse, and also the most threatened vertebrate clade globally. Given that amphibians are ectothermic (i.e. no external source of heat, or 'cold-blooded') they are highly sensitive to their local climatic conditions. This makes them an ideal group of organisms for thermal ecology and microclimate studies.
 
 <br>
 <br>
 
-![image alt < 300](/images/wildlife/frogs_small.png) 
+![image alt <100](/images/wildlife/mantella_baroni.JPG) 
 
 <br>
 <br>
-
 _Relevant publications:_  
-
 <br>
- Klinges, Lange, Laterza-Barbosa, Randrianandrasana, Scheffers _in review_
+[Klinges, D.H. _et al._ Vertical and diel niches modulate thermal selection by rainforest frogs. In Press at _Proceedings of the Royal Society of London B: Biological Sciences_](10.1098/rspb.2024.1497)
 <br>
-<br>"
+<br>
+<br>
+"
 
-    # featured service item loop
     - name : "Shifting Species' Distributions"
       icon : "ion-earth"
       color : "primary-darker"
+
       content : "Climate change and habitat loss pose colossal challenges to biodiversity. One way a species can adapt to changing conditions is by migrating to track tolerable climates and habitats. Critical for conservation and restoration, therefore, is to identify if, where, and why species will move in response to global change. Yet our abilities to predict species' shifting distributions remain lackluster. I attempt to improve our forecasts of species' distributions, integrating big data on animal occurrences and remote sensing with mathematical models that represent biophysiology, demography, and dispersal.
 
+<br>
 <br>
 <br>
 
@@ -109,14 +111,14 @@ Baecher, Klinges, Evans, Fletcher, Romagosa, Scheffers _In Review_
 
     # featured service item loop
     - name : "Tropical Conservation and Capacity-Building"
-      icon : "ion-earth"
-      color : "primary-darker"
+      icon : "ion-leaf"
+      color : "primary-dark"
       content : "It is paramount to study biodiverse settings such as tropical ecosystems. Yet all too often Western researchers temporarily visit Majority World locations with good intentions, but extract data and insights without thorough engagement with local stakeholders. To combat such helicopter science, I seek to learn from my Malagasy collaborators to center their perspectives and goals, while recognizing my privileges and biases. Such partnerships have so far culminated in capacity-building workshops (e.g. leading data management and analysis for employees of Madagascar National Parks) and knowledge co-production through ecological research.
 
 <br>
 <br>
 
-![image alt < 300](/images/research/defrenne_2021_fig3.png) 
+![image alt < 300](/images/landscape/ambalavero_hills.jpeg) 
 
 <br>
 <br>
@@ -127,9 +129,15 @@ _Relevant publications:_
 
 [Price, Randriamiharisoa, Klinges 2023 _Biological Conservation_](https://www.sciencedirect.com/science/article/pii/S0006320723004780)   
 <br>
-Randriamiharisoa, Klinges, Scheffers _In Review_  
+Randriamiharisoa, Klinges, Scheffers _In Revision_  
 <br>
-Klinges, Lembrechts, Van de Vondel, Greenlee, Hayles-Cotton, Senior _In Prep_  
+Klinges, Lembrechts, Van de Vondel, Greenlee, Hayles-Cotton, Senior _In Prep_; [Pre-print available](https://www.biorxiv.org/content/10.1101/2024.09.13.612939v1.abstract)  
+
+<br>
+<br>
+<br>
+<br>
+<br>
 "
 
 
@@ -139,7 +147,10 @@ Klinges, Lembrechts, Van de Vondel, Greenlee, Hayles-Cotton, Senior _In Prep_
       color : "primary"
       content : "Meteorological maps and models of global climate are derived from weather stations placed in flat, open locations, yet such stations do not measure the conditions that humans, crops, and biodiversity actually experience. I develop and apply microclimate modeling approaches to provide updated maps of global climate, for better understanding the variation in and rates of climate change for the planet.
 
-![image alt < 300](/images/landscape/canopy.jpg) 
+<br>
+<br>
+
+![image alt < 300](/images/figures/australia.gif) 
 
 <br>
 <br>
@@ -157,6 +168,12 @@ Klinges, Maclean, Scheffers _In Review_ ([pre-print available](https://www.biorx
 <br>
 [Lembrechts _et al._ 2022 _Globbal Change Biology_](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16060)  
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 "
 
    # featured service item loop
@@ -181,9 +198,7 @@ _Relevant publications:_
 <br>
 [Basham, Baecher, Klinges, Scheffers 2023 _Biological Reviews_](https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12896) 
 <br>
-Klinges, Lange, Laterza-Barbosa, Randrianandrasana, Scheffers _in review_
-
-"
+[Klinges, D.H. _et al._ Vertical and diel niches modulate thermal selection by rainforest frogs. In Press at _Proceedings of the Royal Society of London B: Biological Sciences_](10.1098/rspb.2024.1497)"
 
 
 ################################ feature #####################################

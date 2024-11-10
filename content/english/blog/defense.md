@@ -15,6 +15,4 @@ On 8 May, I had the pleasure of providing a public exit seminar for my PhD at th
 
 The presentation was followed by a closed-door defense, which was genuinely an enjoyable and educational time, thanks to my committee members Brett, Bette, Miguel, Ethan, and Jonathan.
 
-You can watch the recording of the presentation [here](https://mediasite.video.ufl.edu/Mediasite/Play/654d67a68c6f4f57b7d98ddd1d34a8e51d).
-
-Will share the dissertation document here as well once posted! </p>
+You can watch the recording of the presentation [here](https://mediasite.video.ufl.edu/Mediasite/Play/654d67a68c6f4f57b7d98ddd1d34a8e51d), and the dissertation document is now available on ProQuest [here](https://www.proquest.com/docview/3113362102/abstract/20375C3EB5794E0DPQ/1).</p>

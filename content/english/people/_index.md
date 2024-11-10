@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Collaborators"
 description: ""
 draft: false
 layout: "service"
@@ -8,9 +8,9 @@ bg_image: "images/canopy_understory.JPG"
 
 ########################### Overview #############################
 about:
-  enable : true
-  title : "Linking Biogeography and Thermal Ecology for understanding Global Change"
-  content : "The ecological disciplines of spatial ecology, macroecology and biogeography have made considerable developments in recent decades, yet largely independent of the equally important fields of ecophysiology and biophysics. My research program seeks to unify these fields for a more integrative and nuanced understanding of how biodiversity, environments and societies respond to global change."
+  enable : false
+  title : ""
+  content : ""
   image : "images/people/frog_climate.jpg"
 
 

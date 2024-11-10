@@ -1,919 +1,446 @@
 <!doctype html>
-<html
-  itemscope
-  lang="en-US"
-  itemtype="http://schema.org/WebPage">
+<html itemscope lang="en-US" itemtype="http://schema.org/WebPage">
   <head>
-    
     <head>
-  <meta charset="utf-8" />
-  <title>Data &amp; Software</title>
+      <meta charset="utf-8" />
+      <title>Data &amp; Software</title>
 
-  
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, maximum-scale=5" />
+      <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=5" />
 
-  
-  <meta name="theme-name" content="natureinparadise" />
+      <meta name="theme-name" content="natureinparadise" />
 
-  <meta
-    name="description"
-    content="
+      <meta
+        name="description"
+        content="
       This is meta description
     " />
-  
-    <meta name="author" content="Dave Klinges" />
-  
-  <meta name="generator" content="Hugo 0.133.1">
-  
-  <meta property="og:url" content="https://natureinparadise.github.io/data_software/">
-  <meta property="og:site_name" content="Dave Klinges | Ecology and Conservation">
-  <meta property="og:title" content="Data & Software">
-  <meta property="og:description" content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution.">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:type" content="website">
-    <meta property="og:image" content="https://natureinparadise.github.io/images/tree_code_circle.png">
 
-  
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://natureinparadise.github.io/images/tree_code_circle.png">
-  <meta name="twitter:title" content="Data & Software">
-  <meta name="twitter:description" content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution.">
+      <meta name="author" content="Dave Klinges" />
 
-  
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-MEASUREMENT_ID"></script>
+      <meta name="generator" content="Hugo 0.133.1" />
+
+      <meta
+        property="og:url"
+        content="https://natureinparadise.github.io/data_software/" />
+      <meta
+        property="og:site_name"
+        content="Dave Klinges | Ecology and Conservation" />
+      <meta property="og:title" content="Data & Software" />
+      <meta
+        property="og:description"
+        content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution." />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta
+        property="og:image"
+        content="https://natureinparadise.github.io/images/tree_code_circle.png" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:image"
+        content="https://natureinparadise.github.io/images/tree_code_circle.png" />
+      <meta name="twitter:title" content="Data & Software" />
+      <meta
+        name="twitter:description"
+        content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution." />
+
+      <script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-MEASUREMENT_ID"></script>
       <script>
         var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
+        if (false) {
+          var dnt =
+            navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+          var doNotTrack = dnt == "1" || dnt == "yes";
         }
         if (!doNotTrack) {
           window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-MEASUREMENT_ID');
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag("js", new Date());
+          gtag("config", "G-MEASUREMENT_ID");
         }
       </script>
-    
-  
 
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="shortcut icon" href="/images/favicon_hu1169073601118456796.png" type="image/x-icon">
-<link rel="icon" href="/images/favicon_hu1169073601118456796.png" type="image/x-icon">
-<link rel="icon" type="image/png" sizes="48x48" href="/images/favicon_hu15946938190386582464.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon_hu1169073601118456796.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon_hu15720710925778871701.png">
-
-
-
-
-
-
-  
-  
-
-
-
-  
-  
-
-  <base href="https://natureinparadise.github.io/data_software/" />
-
-
-
-
-
-
-
-  
-
-
-<title>Data &amp; Software</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<meta
-  name="description"
-  content="" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://natureinparadise.github.io/" />
-  <meta property="og:image" content="https://natureinparadise.github.io/" />
-
-
-
-
-
-<meta property="og:title" content="Data &amp; Software" />
-<meta property="og:description" content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://natureinparadise.github.io/data_software/" />
-
-
-<meta name="twitter:title" content="Data &amp; Software" />
-<meta name="twitter:description" content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution." />
-
-
-
-
-</head>
-
-
-
-    
-    
-<meta http-equiv="x-dns-prefetch-control" content="on" />
-<link rel="preconnect" href="//ajax.googleapis.com" />
-<link
-  rel="preconnect"
-  href="https://fonts.gstatic.com"
-  crossorigin="anonymous" />
-<link rel="preconnect" href="https://use.fontawesome.com" crossorigin />
-<link rel="preconnect" href="//cdnjs.cloudflare.com" />
-<link rel="preconnect" href="//www.googletagmanager.com" />
-<link rel="preconnect" href="//www.google-analytics.com" />
-<link rel="dns-prefetch" href="https://fonts.gstatic.com" />
-<link rel="dns-prefetch" href="https://use.fontawesome.com" />
-<link rel="dns-prefetch" href="//ajax.googleapis.com" />
-<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
-<link rel="dns-prefetch" href="//www.googletagmanager.com" />
-<link rel="dns-prefetch" href="//www.google-analytics.com" />
-<link rel="dns-prefetch" href="//fonts.googleapis.com" />
-<link rel="dns-prefetch" href="//connect.facebook.net" />
-<link rel="dns-prefetch" href="//platform.linkedin.com" />
-<link rel="dns-prefetch" href="//platform.twitter.com" />
-
-
-
-
-  
-    
-  
-
-  
-    
-  
-
-  
-    
-  
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" href="/css/style.css" />
-
-
-
+      <link
+        rel="shortcut icon"
+        href="/images/favicon_hu1169073601118456796.png"
+        type="image/x-icon" />
+      <link
+        rel="icon"
+        href="/images/favicon_hu1169073601118456796.png"
+        type="image/x-icon" />
+      <link
+        rel="icon"
+        type="image/png"
+        sizes="48x48"
+        href="/images/favicon_hu15946938190386582464.png" />
+      <link
+        rel="icon"
+        type="image/png"
+        sizes="96x96"
+        href="/images/favicon_hu1169073601118456796.png" />
+      <link
+        rel="apple-touch-icon"
+        sizes="144x144"
+        href="/images/favicon_hu15720710925778871701.png" />
+
+      <base href="https://natureinparadise.github.io/data_software/" />
+
+      <title>Data &amp; Software</title>
+
+      <meta name="description" content="" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:image"
+        content="https://natureinparadise.github.io/" />
+      <meta property="og:image" content="https://natureinparadise.github.io/" />
+
+      <meta property="og:title" content="Data &amp; Software" />
+      <meta
+        property="og:description"
+        content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution." />
+      <meta property="og:type" content="website" />
+      <meta
+        property="og:url"
+        content="https://natureinparadise.github.io/data_software/" />
+
+      <meta name="twitter:title" content="Data &amp; Software" />
+      <meta
+        name="twitter:description"
+        content="mcera5 R packaage We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package here in Methods in Ecology and Evolution." />
+    </head>
+
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link rel="preconnect" href="//ajax.googleapis.com" />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin="anonymous" />
+    <link rel="preconnect" href="https://use.fontawesome.com" crossorigin />
+    <link rel="preconnect" href="//cdnjs.cloudflare.com" />
+    <link rel="preconnect" href="//www.googletagmanager.com" />
+    <link rel="preconnect" href="//www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="https://use.fontawesome.com" />
+    <link rel="dns-prefetch" href="//ajax.googleapis.com" />
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+    <link rel="dns-prefetch" href="//www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//connect.facebook.net" />
+    <link rel="dns-prefetch" href="//platform.linkedin.com" />
+    <link rel="dns-prefetch" href="//platform.twitter.com" />
+
+    <link rel="stylesheet" href="/css/style.css" />
   </head>
 
   <body>
-    
-    
-      
-  <!-- preloader start -->
-  <div class="preloader">
-    
-  </div>
-  <!-- preloader end -->
+    <!-- preloader start -->
+    <div class="preloader"></div>
+    <!-- preloader end -->
 
+    <header class="container navigation">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12">
+            <nav class="navbar">
+              <div class="navbar-header">
+                <button
+                  title="Toggle navigation"
+                  type="button"
+                  class="navbar-toggle collapsed"
+                  data-toggle="collapse"
+                  data-target="#navigation">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
 
-    
+                <a class="navbar-brand" href="/" aria-label="logo">
+                  <img
+                    fetchpriority="high"
+                    decoding="async"
+                    class="img"
+                    width="100"
+                    height="66"
+                    src="/images/tree_code_circle_hu6634469102059591682.webp"
+                    alt=""
+                    onerror="this.onerror=null;this.src='\/images\/tree_code_circle_hu8801412941317633887.png'" />
+                </a>
+              </div>
 
-
-    
-    
-<header class="container navigation">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-12">
-        
-        <nav class="navbar">
-          
-          <div class="navbar-header">
-            <button
-              title="Toggle navigation"
-              type="button"
-              class="navbar-toggle collapsed"
-              data-toggle="collapse"
-              data-target="#navigation">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            
-            <a
-              class="navbar-brand"
-              href="/"
-              aria-label="logo">
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-  
-  
-    
-    
-  
-
-
-  
-  
-    
-    
-    
-    
-    
-    
-    
-  
-  
-
-  
-  
-  
-
-  
-    <img
-      fetchpriority="high"
-      decoding="async"
-      class="img"
-      width="100"
-      height="66"
-      src="/images/tree_code_circle_hu6634469102059591682.webp"
-      alt=""
-      onerror="this.onerror=null;this.src='\/images\/tree_code_circle_hu8801412941317633887.png'" />
-  
-  
-
-
-            </a>
-          </div>
-          
-          <div class="collapse navbar-collapse" id="navigation">
-            <ul class="nav navbar-nav navbar-right">
-              
-                
+              <div class="collapse navbar-collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
                   <li><a href="/">Home</a></li>
-                
-              
-                
+
                   <li><a href="/about">About</a></li>
-                
-              
-                
+
                   <li><a href="/publications">Publications</a></li>
-                
-              
-                
+
                   <li><a href="/research">Research</a></li>
-                
-              
-                
+
                   <li><a href="/people">People</a></li>
-                
-              
-                
+
                   <li><a href="/blog">Blog</a></li>
-                
-              
-                
+
                   <li><a href="/data_software">Data &amp; Software</a></li>
-                
-              
-                
+
                   <li><a href="/project">Multimedia</a></li>
-                
-              
-                
+
                   <li><a href="/contact">Contact</a></li>
-                
-              
-            </ul>
+                </ul>
+              </div>
+            </nav>
           </div>
-          
-        </nav>
+        </div>
       </div>
-    </div>
-  </div>
-</header>
-
-
-
+    </header>
 
     <main>
-  <section
-  class="page-title bg-2"
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h1>Data &amp; Software</h1>
-          <p></p>
+      <section class="page-title bg-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="block">
+                <h1>Data &amp; Software</h1>
+                <p></p>
+              </div>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <h2 id="mcera5-r-packaagehttpsgithubcomdklinges9mcera5">
+                <a href="https://github.com/dklinges9/mcera5"
+                  >mcera5 R packaage</a
+                >
+              </h2>
+
+              <img
+                title=""
+                loading="lazy"
+                decoding="async"
+                class="img  "
+                width="120"
+                height="120"
+                src="/images/data_software/mcera5_hex_hu16587595794341351717.webp"
+                alt="image"
+                onerror="this.onerror='null';this.src='\/images\/data_software\/mcera5_hex_hu7483729046755459881.png'" />
+
+              <script>
+                window.addEventListener("load", (e) => {
+                  const lightbox = GLightbox();
+                });
+              </script>
+
+              <br />
+              <br />
+              <p>
+                We designed an R package to download and process ERA5 gridded
+                climate timeseries data, to be ready for use in microclimate
+                modelling. Corresponding paper describing the package
+                <a href="https://doi.org/10.1111/2041-210X.13877"
+                  >here in <em>Methods in Ecology and Evolution</em></a
+                >.
+              </p>
+              <br />
+              <br />
+              <br />
+              <h2 id="microclimc-r-packaagehttpsgithubcomilyamacleanmicroclimc">
+                <a href="https://github.com/ilyamaclean/microclimc"
+                  >microclimc R packaage</a
+                >
+              </h2>
+              <p>
+                Most biodiversity lives in microclimates influenced by
+                vegetation, such as forest canopies but also shurblands,
+                meadows, sand savannahs. To help ecologists represent such
+                climate conditions near the earth&rsquo;s surface,
+                <em>microclimc</em> is a mechanistic model, made available
+                through an R package, that leverages first principles physics to
+                predict microclimate above, within, and below the canopy in any
+                terrestrial location on earth. Alongside the microclimate model,
+                several functions are provided to assist data assimilation, as
+                well as different parameterizations to capture a variety of
+                habitats, allowing flexible application even when little is
+                known about the study location. Corresponding paper describing
+                the package
+                <a
+                  href="https://www.sciencedirect.com/science/article/pii/S0304380021001265"
+                  >here in <em>Ecological Modelling</em></a
+                >.
+              </p>
+              <br />
+              <h2
+                id="coastal-carbon-atlashttpsccrcnshinyappsiocoastalcarbonatlas">
+                <a href="https://ccrcn.shinyapps.io/CoastalCarbonAtlas/"
+                  >Coastal Carbon Atlas</a
+                >
+              </h2>
+              <br />
+              <p>
+                <img
+                  title=""
+                  loading="lazy"
+                  decoding="async"
+                  class="img  "
+                  width="450"
+                  height="254"
+                  src="/images/data_software/Atlas_banner_hu616762952615211423.webp"
+                  alt="image"
+                  onerror="this.onerror='null';this.src='\/images\/data_software\/Atlas_banner_hu4646483879585862027.png'" />
+
+                <br />
+                <br />
+              </p>
+              <p>
+                Use this web interface to visualize, query, and download data
+                from the Coastal Carbon Clearinghouse. User base is the
+                community of scientists and land managers engaged in
+                understanding and preserving coastal ecosysems. Backend and
+                frontend both written in R with use of R Shiny and Leaflet
+                basemaps, customization with JS and CSS. Displayed data stored
+                in the
+                <a href="https://github.com/Smithsonian/CCRCN-Data-Library"
+                  >CCRCN Data Library</a
+                >. See our corresponding paper as well (<a
+                  href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17098"
+                  >Holmquist <em>et al.</em> 2024
+                  <em>Global Change Biology</em></a
+                >).
+              </p>
+              <br />
+              <br />
+              <h2
+                id="introduction-to-data-curation-and-visualization-in-rhttpssercsieducoastalcarbonr-coding">
+                <a href="https://serc.si.edu/coastalcarbon/r-coding"
+                  >Introduction to Data Curation and Visualization in R</a
+                >
+              </h2>
+              <br />
+              <p>
+                <img
+                  title=""
+                  loading="lazy"
+                  decoding="async"
+                  class="img  "
+                  width="250"
+                  height="88"
+                  src="/images/data_software/RStudio-Logo-Flat_hu15389382830868639893.webp"
+                  alt="image"
+                  onerror="this.onerror='null';this.src='\/images\/data_software\/RStudio-Logo-Flat_hu10220081338133156478.png'" />
+
+                <br />
+                <br />
+              </p>
+              <p>
+                An introductory tutorial on how to use R and RStudio to
+                download, re-shape, query, summarize, and plot data (in this
+                case, related to the soil biogeochemistry of coastal wetlands).
+                Tutorial written in R and RMarkdown, customization with CSS and
+                HTML.
+              </p>
+              <p>   </p>
+              <h2
+                id="reproducible-research-project-templatehttpsgithubcomdklinges9reproducible-research-template">
+                <a
+                  href="https://github.com/dklinges9/Reproducible-Research-Template"
+                  >Reproducible Research Project Template</a
+                >
+              </h2>
+              <p>
+                Open-access GitHub repository for use as a template to develop
+                easy-to-follow, reproducible project workflows. See resources
+                and documentation within for helpful tips and practices on
+                developing such a project.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
 
-
-
-  
-  
-    <section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2 id="mcera5-r-packaagehttpsgithubcomdklinges9mcera5"><a href="https://github.com/dklinges9/mcera5">mcera5 R packaage</a></h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-  
-  
-    
-    
-      
-    
-
-    
-
-
-    
-    
-
-
-    
-    
-    
-    
-    
-    
-    
-
-
-    
-    
-      
-      
-
-      
-
-
-      
-
-      
-      
-        
-        
-        
-      
-      
-      
-      
-
-    
-    
-
-    
-    
-      
-      
-          <img
-            title=""
-            loading="lazy"
-            decoding="async"
-            class="img  "
-            width="120"
-            height="120"
-            src="/images/data_software/mcera5_hex_hu16587595794341351717.webp"
-            alt="image"
-            onerror="this.onerror='null';this.src='\/images\/data_software\/mcera5_hex_hu7483729046755459881.png'" />
-      
-    
-
-  
-  
-
-
-
-
-
-
-  <script>
-    window.addEventListener("load", (e) => {
-      const lightbox = GLightbox();
-    });
-  </script>
-
-
-<br>
-<br>
-<p>We designed an R package to download and process ERA5 gridded climate timeseries data, to be ready for use in microclimate modelling. Corresponding paper describing the package <a href="https://doi.org/10.1111/2041-210X.13877">here in <em>Methods in Ecology and Evolution</em></a>.</p>
-<br>
-<br>
-<br>
-<h2 id="microclimc-r-packaagehttpsgithubcomilyamacleanmicroclimc"><a href="https://github.com/ilyamaclean/microclimc">microclimc R packaage</a></h2>
-<p>Most biodiversity lives in microclimates influenced by vegetation, such as forest canopies but also shurblands, meadows, sand savannahs. To help ecologists represent such climate conditions near the earth&rsquo;s surface, <em>microclimc</em> is a mechanistic model, made available through an R package, that leverages first principles physics to predict microclimate above, within, and below the canopy in any terrestrial location on earth. Alongside the microclimate model, several functions are provided to assist data assimilation, as well as different parameterizations to capture a variety of habitats, allowing flexible application even when little is known about the study location. Corresponding paper describing the package <a href="https://www.sciencedirect.com/science/article/pii/S0304380021001265">here in <em>Ecological Modelling</em></a>.</p>
-<br>
-<h2 id="coastal-carbon-atlashttpsccrcnshinyappsiocoastalcarbonatlas"><a href="https://ccrcn.shinyapps.io/CoastalCarbonAtlas/">Coastal Carbon Atlas</a></h2>
-<br>
-<p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-  
-  
-    
-    
-      
-    
-
-    
-
-
-    
-    
-
-
-    
-    
-    
-    
-    
-    
-    
-
-
-    
-    
-      
-      
-
-      
-
-
-      
-
-      
-      
-        
-        
-        
-      
-      
-      
-      
-
-    
-    
-
-    
-    
-      
-      
-          <img
-            title=""
-            loading="lazy"
-            decoding="async"
-            class="img  "
-            width="450"
-            height="254"
-            src="/images/data_software/Atlas_banner_hu616762952615211423.webp"
-            alt="image"
-            onerror="this.onerror='null';this.src='\/images\/data_software\/Atlas_banner_hu4646483879585862027.png'" />
-      
-    
-
-  
-  
-
-
-
-
-
-
-
-<br>
-<br></p>
-<p>Use this web interface to visualize, query, and download data from the Coastal Carbon Clearinghouse. User base is the community of scientists and land managers engaged in understanding and preserving coastal ecosysems. Backend and frontend both written in R with use of R Shiny and Leaflet basemaps, customization with JS and CSS. Displayed data stored in the <a href="https://github.com/Smithsonian/CCRCN-Data-Library">CCRCN Data Library</a>. See our corresponding paper as well (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17098">Holmquist <em>et al.</em> 2024 <em>Global Change Biology</em></a>).</p>
-<br>
-<br>
-<h2 id="introduction-to-data-curation-and-visualization-in-rhttpssercsieducoastalcarbonr-coding"><a href="https://serc.si.edu/coastalcarbon/r-coding">Introduction to Data Curation and Visualization in R</a></h2>
-<br>
-<p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-  
-  
-    
-    
-      
-    
-
-    
-
-
-    
-    
-
-
-    
-    
-    
-    
-    
-    
-    
-
-
-    
-    
-      
-      
-
-      
-
-
-      
-
-      
-      
-        
-        
-        
-      
-      
-      
-      
-
-    
-    
-
-    
-    
-      
-      
-          <img
-            title=""
-            loading="lazy"
-            decoding="async"
-            class="img  "
-            width="250"
-            height="88"
-            src="/images/data_software/RStudio-Logo-Flat_hu15389382830868639893.webp"
-            alt="image"
-            onerror="this.onerror='null';this.src='\/images\/data_software\/RStudio-Logo-Flat_hu10220081338133156478.png'" />
-      
-    
-
-  
-  
-
-
-
-
-
-
-
-<br>
-<br></p>
-<p>An introductory tutorial on how to use R and RStudio to download, re-shape, query, summarize, and plot data (in this case, related to the soil biogeochemistry of coastal wetlands). Tutorial written in R and RMarkdown, customization with CSS and HTML.</p>
-<p> 
- </p>
-<h2 id="reproducible-research-project-templatehttpsgithubcomdklinges9reproducible-research-template"><a href="https://github.com/dklinges9/Reproducible-Research-Template">Reproducible Research Project Template</a></h2>
-<p>Open-access GitHub repository for use as a template to develop easy-to-follow, reproducible project workflows. See resources and documentation within for helpful tips and practices on developing such a project.</p>
-
-      </div>
-    </div>
-  </div>
-</section>
-
-  
-  
-</main>
-
-    
     <footer class="footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="footer-manu">
-          <ul>
-            
-              <li>
-                <a
-                  href="/about"
-                  class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
-                  About
-                </a>
-              </li>
-            
-              <li>
-                <a
-                  href="/research"
-                  class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
-                  Research
-                </a>
-              </li>
-            
-              <li>
-                <a
-                  href="/gallery"
-                  class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
-                  Multimedia
-                </a>
-              </li>
-            
-              <li>
-                <a
-                  href="/contact"
-                  class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
-                  Contact
-                </a>
-              </li>
-            
-          </ul>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="footer-manu">
+              <ul>
+                <li>
+                  <a
+                    href="/about"
+                    class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
+                    About
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    href="/research"
+                    class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
+                    Research
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    href="/gallery"
+                    class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
+                    Multimedia
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    href="/contact"
+                    class="block py-3 px-4 md:px-6 md:py-4 hover:underline">
+                    Contact
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <p class="copyright">
+              Copyright © 2021 David Klinges and
+              <a href="https://themefisher.com">Themefisher</a>. All Rights
+              Reserved.
+            </p>
+          </div>
         </div>
-        <p class="copyright">Copyright © 2021 David Klinges and <a href="https://themefisher.com">Themefisher</a>. All Rights Reserved.</p>
       </div>
-    </div>
-  </div>
-</footer>
+    </footer>
 
+    <script
+      crossorigin="anonymous"
+      integrity="sha256-CMTiInfX4YIv7DKJhWJIzXIbX9admFuXo2AfSOSvdf4="
+      src="/js/script.min.08c4e22277d7e1822fec3289856248cd721b5fd69d985b97a3601f48e4af75fe.js"></script>
 
+    <script
+      defer
+      async
+      crossorigin="anonymous"
+      src="/js/script-lazy.min.660c98446b11ec70fead1deade2b625c8682cb5aac7b4d1162668fd90433ec09.js"></script>
 
-    
-    
-
-
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-    
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-<script
-  crossorigin="anonymous"
-  integrity="sha256-CMTiInfX4YIv7DKJhWJIzXIbX9admFuXo2AfSOSvdf4="
-  src="/js/script.min.08c4e22277d7e1822fec3289856248cd721b5fd69d985b97a3601f48e4af75fe.js"></script>
-
-
-<script
-  defer
-  async
-  crossorigin="anonymous"
-  src="/js/script-lazy.min.660c98446b11ec70fead1deade2b625c8682cb5aac7b4d1162668fd90433ec09.js"></script>
-
-
-
-
-<script type="application/javascript">
-  WebFont.load({
-    google: {
-      api: 'https://fonts.googleapis.com/css2',
-      families: ['Roboto:wght@100;200;300;400;500;700&display=swap'],
-      version: 2
-    },
-    active: () => {sessionStorage.fontsLoaded = true}
-  });
-</script>
-
+    <script type="application/javascript">
+      WebFont.load({
+        google: {
+          api: "https://fonts.googleapis.com/css2",
+          families: ["Roboto:wght@100;200;300;400;500;700&display=swap"],
+          version: 2,
+        },
+        active: () => {
+          sessionStorage.fontsLoaded = true;
+        },
+      });
+    </script>
   </body>
 </html>
