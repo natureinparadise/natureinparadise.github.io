@@ -17,7 +17,7 @@ Katie and I had a wonderful 17-day (!!) trip in Patagonia, as a post-PhD defense
 
 [El Chalten](lINK)
 
-And, if you want some suggestions on how to take on a trip like this for yourself, here's our [itenerary and travel notes](LINK) from our trip. Enjoy!
+And, if you want some suggestions on how to take on a trip like this for yourself, here's our [itenerary and travel notes](https://docs.google.com/document/d/1bkl3aK42iHjrYrkICOVmxQhfCRS7NErih8ATz_io8uo/edit?usp=sharing) from our trip. Enjoy!
 
 {{< image src="/images/people/patagonia_nature_katie3.png" alt="blog-image" width="700" position="center">}}
 
