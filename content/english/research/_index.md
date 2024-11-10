@@ -15,10 +15,6 @@ about:
 <br>
 <br>
 
-High-level research questions include:
-
-<br>
-
 <strong>_How will ecological systems and landscapes change in the face of the compounded threats of land use change and climate change?_  
 
 &nbsp;
