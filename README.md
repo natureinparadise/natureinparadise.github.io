@@ -33,3 +33,45 @@ Start the production server to preview your changes and test functionality:
 ```bash
 npm run preview
 ```
+
+````
+
+
+### Build Command
+
+Build the project for production, generating optimized static files:
+
+```bash
+npm run build
+````
+
+### Format Command
+
+Format HTML and .md file:
+
+```bash
+npm run format
+```
+
+_Upon formating HTML per above command, You may receive a series of errors having to do with these modules:_  
+node_modules/prettier  
+node_modules/prettier-plugin-go-template
+
+As of 10 November 2024, these errors do not seem to impact performance.
+
+### Contributing Your Changes
+
+Push changes directly to:  
+https://github.com/natureinparadise/natureinparadise.github.io/
+
+### Maintainers
+
+- [Dave Klinges](https://github.com/dklinges9)
+
+## Navigation / Important Directories and Files
+
+_Edit the Menu_: config/_default/menus.en.toml  
+\_Edit Site Pages_: most pages are stored in content/english  
+_Documents_: probably not the only location, but currently stored in root dir docs/  
+_Images_: assets/images/ (NOT the root images/ dir. That's a derived property)  
+_Contact page_: configs/\_default/params.toml

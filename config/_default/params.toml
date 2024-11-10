@@ -7,7 +7,7 @@ title = "Nature.In.Paradise"
 description = "This is meta description"
 author = "Dave Klinges"
 images = [ "images/tree_code_circle.png" ] # First image here will be used as fallback if a page has no images of its own
-copyright = "Copyright &copy; 2021 David Klinges and [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2024 David Klinges and [Themefisher](https://themefisher.com). All Rights Reserved."
 # search
 [search]
 enable = true
@@ -30,10 +30,9 @@ font_primary_type = "sans-serif"
 ################################# Contact page ################################
 [contact]
 # Address block
-phone = "(239) 555-0108"
-email = "dklinges9[@]gmail.com"
+phone = "dklinges9[@]gmail.com"
 location = """
-110 Newins-Ziegler Hall, Gainesville, FL 23601 USA
+370 Prospect Street New Haven, CT 06511, USA
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
