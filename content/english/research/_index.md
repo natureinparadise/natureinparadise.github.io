@@ -13,12 +13,13 @@ about:
   content : "The ecological disciplines of spatial ecology, macroecology and biogeography have made considerable developments in recent decades, yet largely independent of the equally important fields of ecophysiology and biophysics. My research program seeks to unify these fields for a more integrative and nuanced understanding of how biodiversity, environments and societies respond to global change.
 
 <br>
+<br>
 
 High-level research questions include:
 
 <br>
 
-_How will ecological systems and landscapes change in the face of the compounded threats of land use change and climate change?_  
+<strong>_How will ecological systems and landscapes change in the face of the compounded threats of land use change and climate change?_  
 
 &nbsp;
 &nbsp;

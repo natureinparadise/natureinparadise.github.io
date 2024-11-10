@@ -23,16 +23,16 @@ URL = "research"
 weight = 4
 hasChildren = true
 
-[[main]]
-name = "Projects"
-URL = "project"
-weight = 5
-hasChildren = true
-
-  [[main]]
-  parent = "Projects"
-  name = "Land Cover"
-  URL = "lcluc"
+# [[main]]
+# name = "Projects"
+# URL = "project"
+# weight = 5
+# hasChildren = true
+# 
+#   [[main]]
+#   parent = "Projects"
+#   name = "Land Cover"
+#   URL = "lcluc"
 
 [[main]]
 name = "People"
