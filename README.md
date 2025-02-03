@@ -72,6 +72,6 @@ https://github.com/natureinparadise/natureinparadise.github.io/
 
 _Edit the Menu_: config/_default/menus.en.toml  
 \_Edit Site Pages_: most pages are stored in content/english  
-_Documents_: probably not the only location, but currently stored in root dir docs/  
+_Documents_: content/english/docs/ Having a docs/ folder in the root no longer works for hyperlinking
 _Images_: assets/images/ (NOT the root images/ dir. That's a derived property)  
 _Contact page_: configs/\_default/params.toml
