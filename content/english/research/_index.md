@@ -9,8 +9,12 @@ bg_image: "images/landscape/canopy_understory.JPG"
 ########################### Overview #############################
 about:
   enable : true
-  title : "Linking Biogeography and Thermal Ecology for understanding Global Change"
-  content : "The ecological disciplines of spatial ecology, macroecology and biogeography have made considerable developments in recent decades, yet largely independent of the equally important fields of ecophysiology and biophysics. My research program seeks to unify these fields for a more integrative and nuanced understanding of how biodiversity, environments and societies respond to global change.
+  title : "Linking Thermal Ecology and Biogeography for understanding Global Change"
+  content : "
+<br>
+<br>
+
+The ecological disciplines of spatial ecology, macroecology and biogeography have made considerable developments in recent decades, yet largely independent of the equally important fields of ecophysiology and biophysics. My research program seeks to unify these fields for a more integrative and nuanced understanding of how biodiversity, environments and societies respond to global change.
 
 <br>
 <br>
@@ -27,7 +31,7 @@ about:
 
 "
 
-  image : "images/figures/amnat_global_map.png"
+  image : "images/research/research_program.png"
 
 
 ########################## featured service ############################

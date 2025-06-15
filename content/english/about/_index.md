@@ -14,20 +14,23 @@ about:
   enable : true
   image : "images/people/nature_dave/2022BrettScheffersLab0041.jpg"
   title : ""
-  content : "I am a Postdoctoral Associate in the [Skelly Lab at Yale University](https://campuspress.yale.edu/skellylab/). I completed my PhD at the University of Florida in the Scheffers Lab (2019-2024), prior to which I held databasing and GIS positions at the Smithsonian, conducted biodiversity monitoring for an agroforestry NGO in the Peruvian Amazon, and graduated in 2017 from Dartmouth College.
+  content : "I am an incoming Assistant Professor at Rutgers University in the [Department of Ecology, Evolution, and Natural Resources](https://deenr.rutgers.edu/) starting Fall 2026.
+
+
+Currently, I am a Postdoctoral Associate in the [Skelly Lab at Yale University](https://campuspress.yale.edu/skellylab/). I completed my PhD at the University of Florida in the Scheffers Lab (2019-2024), prior to which I held databasing and GIS positions at the Smithsonian, conducted biodiversity monitoring for an agroforestry NGO in the Peruvian Amazon, and graduated in 2017 from Dartmouth College.
 
 In my research, I employ observation, experimental, and computational approaches to explore how climate change and land use change shapes biodiversity and the environment from local to global scales. I attempt to be a “full-stack” ecologist, engaging in ecological research from empirical data collection (namely in Madagsacar) to data curation to statistical and mathematical modeling to application for real-world conservation and management. See my [Research Program](/research/) for more.
 
 
 ![alt >](images/people/nature_dave/nature_patagonia1.jpg)
 
-_CV last updated: January 2025_  
+_CV last updated: June 2025_  
 "
 
   button:
     enable : true
     label : "Download CV"
-    link : "docs/Klinges-20250122.pdf"
+    link : "docs/Klinges-20250610.pdf"
 
   funfacts: 
       

@@ -14,9 +14,9 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "[Research: Thermal Ecology meets Landscape Ecology](/research)"
-  description : "A record of the meditations, murmurs, and misadventures of Nature Dave in his pursuit of ecological knowledge."
-  content : "Despite hundreds of years of observational, experimental, and (more recently) computational work, we still have much to learn about our environment on Earth. To uncover and disseminate this endless knowledge is critical given the state of anthropogenic global change, as the immense biodiversity and undomesticated landscapes that are the source of natural beauty are imperiled. This website serves to record the endeavors of Dave Klinges on fulfilling these missions."
+  title : "[Thermal Ecology meets Landscape Ecology](/research)"
+  description : "Translating Global Change Processes into physicological impacts for organisms, species, and communities"
+  content : "Despite hundreds of years of observational, experimental, and (more recently) computational work, we still have much to learn about our environment on Earth. To uncover and disseminate this endless knowledge is critical given the state of anthropogenic global change, as the immense biodiversity and undomesticated landscapes that are the source of natural beauty are imperiled. Our group integrates field data collection, experiments, and mathematical models to disentangle how biodiversity responds to global change."
 
   button:
     enable : true
