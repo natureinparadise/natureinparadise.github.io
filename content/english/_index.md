@@ -4,19 +4,19 @@ banner:
   enable : true
   bg_image : "images/landscape/canopy_understory.JPG"
   bg_overlay: true
-  title : "NATURE .IN .PARADISE"
-  content : "Research, Multimedia, and Outreach by Dave Klinges"
+  title : "WE HAVE MOVED"
+  content : ""
   button:
-    enable : true
+    enable : false
     label : "Learn more about Dave"
     link : "about"
 
 ############################# About #################################
 about:
   enable : true
-  title : "[Thermal Ecology meets Landscape Ecology](/research)"
+  title : "Please visit our new lab webpage!"
   description : "Translating Global Change Processes into physicological impacts for organisms, species, and communities"
-  content : "Despite hundreds of years of observational, experimental, and (more recently) computational work, we still have much to learn about our environment on Earth. To uncover and disseminate this endless knowledge is critical given the state of anthropogenic global change, as the immense biodiversity and undomesticated landscapes that are the source of natural beauty are imperiled. Our group integrates field data collection, experiments, and mathematical models to disentangle how biodiversity responds to global change."
+  content : "If you are looking to learn more about Dave Klinges and the EcoClimate lab group, please visit this site: [https://ecoclimateglobal.org/](https://ecoclimateglobal.org/)"
 
   button:
     enable : true
