@@ -2,21 +2,33 @@
 
 A hugo powered static website for Nature in Paradise
 
-### Prerequisites
 
-To contribute effectively, you'll need some prerequisites installed on your machine:
+### Maintainers
 
-- **Hugo Extended v0.127+**: [[https://gohugo.io/installation/](https://gohugo.io/installation/)]
-- **Node v18+**: [[https://nodejs.org/en/download/](https://nodejs.org/en/download/)]
-- **Go v1.22+**: [[https://go.dev/doc/install](https://go.dev/doc/install)]
+- [Dave Klinges](https://github.com/dklinges9)
 
-### Install Dependencies
+## Navigation / Important Directories and Files
 
-Install all the necessary dependencies using the following command:
+_Edit the Menu_: config/_default/menus.en.toml  
+_Edit Site Pages_: most pages are stored in content/english  
+_Documents_: content/english/docs/ Having a docs/ folder in the root no longer works for hyperlinking  
+_Images_: assets/images/ (**NOT** the root images/ dir. That's a derived property)  
+_Contact page_: configs/\_default/params.toml
 
-```bash
-npm install
-```
+<br>
+
+
+
+### Contributing Your Changes
+
+Push changes directly to:  
+https://github.com/natureinparadise/natureinparadise.github.io/
+
+<br>
+<br>
+
+
+## Testing / Local Deployment
 
 ### Development Command
 
@@ -59,19 +71,25 @@ node_modules/prettier-plugin-go-template
 
 As of 10 November 2024, these errors do not seem to impact performance.
 
-### Contributing Your Changes
 
-Push changes directly to:  
-https://github.com/natureinparadise/natureinparadise.github.io/
 
-### Maintainers
+<br>
+<br>
 
-- [Dave Klinges](https://github.com/dklinges9)
+## _Setting up to Contribute_  
 
-## Navigation / Important Directories and Files
+### Prerequisites
 
-_Edit the Menu_: config/_default/menus.en.toml  
-\_Edit Site Pages_: most pages are stored in content/english  
-_Documents_: content/english/docs/ Having a docs/ folder in the root no longer works for hyperlinking
-_Images_: assets/images/ (NOT the root images/ dir. That's a derived property)  
-_Contact page_: configs/\_default/params.toml
+To contribute effectively, you'll need some prerequisites installed on your machine:
+
+- **Hugo Extended v0.127+**: [[https://gohugo.io/installation/](https://gohugo.io/installation/)]
+- **Node v18+**: [[https://nodejs.org/en/download/](https://nodejs.org/en/download/)]
+- **Go v1.22+**: [[https://go.dev/doc/install](https://go.dev/doc/install)]
+
+### Install Dependencies
+
+Install all the necessary dependencies using the following command:
+
+```bash
+npm install
+```
